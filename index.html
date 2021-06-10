@@ -155,17 +155,25 @@
 </section>
 
 <!--Portfolio-->
-<section id="portfolio" class="page-section secPad">
+<section id="portfolio" class="page-section section appear clearfix secPad">
   <div class="container">
     <div class="heading"> 
       <!-- Heading -->
       <h2>Publication</h2>
     </div>
     <div class="row">
+	  <nav id="filter" class="col-md-12">
+        <ul>
+          <li><a href="#" class="current btn-theme btn-small" data-filter="*">All</a></li>
+          <li><a href="#" class="btn-theme btn-small" data-filter=".physics">Physical Simulation</a></li>
+          <li><a href="#" class="btn-theme btn-small" data-filter=".relativity">Relativistic Rendering</a></li>
+          <li><a href="#" class="btn-theme btn-small" data-filter=".ecg">ECG</a></li>
+        </ul>
+      </nav>
       <div class="col-md-12">
         <div class="row">
-          <div class="portfolio-items isotopeWrapper" id="3">
-            <article class="col-sm-4 isotopeItem">
+          <div class="portfolio-items isotopeWrapper clearfix" id="3">
+            <article class="col-sm-4 isotopeItem physics">
               <div class="portfolio-item"> <img src="images/portfolio/img1.jpg" alt="" />
                 <div class="portfolio-desc align-center">
                   <div class="folio-info"> <a href="https://arxiv.org/abs/2103.14870" class="fancybox">
@@ -175,7 +183,7 @@
                 </div>
               </div>
             </article>
-            <article class="col-sm-4 isotopeItem">
+            <article class="col-sm-4 isotopeItem physics">
               <div class="portfolio-item"> <img src="images/portfolio/img2.jpg" alt="" />
                 <div class="portfolio-desc align-center">
                   <div class="folio-info"> <a href="images/portfolio/img2.jpg" class="fancybox">
@@ -185,7 +193,7 @@
                 </div>
               </div>
             </article>
-            <article class="col-sm-4 isotopeItem">
+            <article class="col-sm-4 isotopeItem physics">
               <div class="portfolio-item"> <img src="images/portfolio/img3.jpg" alt="" />
                 <div class="portfolio-desc align-center">
                   <div class="folio-info"> <a href="https://doi.org/10.1007/978-3-319-93399-3_34" class="fancybox">
@@ -195,7 +203,7 @@
                 </div>
               </div>
             </article>
-            <article class="col-sm-4 isotopeItem">
+            <article class="col-sm-4 isotopeItem relativity">
               <div class="portfolio-item"> <img src="images/portfolio/img4.jpg" alt="" />
                 <div class="portfolio-desc align-center">
                   <div class="folio-info"> <a href="https://doi.org/10.5220/0010217600760087" class="fancybox">
@@ -205,7 +213,7 @@
                 </div>
               </div>
             </article>
-            <article class="col-sm-4 isotopeItem">
+            <article class="col-sm-4 isotopeItem ECG">
               <div class="portfolio-item"> <img src="images/portfolio/img5.jpg" alt="" />
                 <div class="portfolio-desc align-center">
                   <div class="folio-info"> <a href="https://patentimages.storage.googleapis.com/68/7f/98/07e942c9ae44ee/US9477701.pdf" class="fancybox">
