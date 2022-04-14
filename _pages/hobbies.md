@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Reading
 ======
-I like reading novels and short stories. Some of my favourite authors are Gabriel García Márquez, Kaliprasanna Singha, Sunil Gangopadhyay, Manik Bandopadhyay, Bijon Bhattacharya, Bibhutibhushan Bandopadhyay, Amitava Ghosh, Shirshendu Mukhopadhyay, Premendra Mitra, Sukumar Ray, Ashapurna Devi, Arundhati Roy, Arthur Conan Doyle, Sharadindu Bandyopadhyay, Salman Rushdie, George Orwell, Franz Kafka, Sophocles and others.
+I like reading novels and short stories. Some of my favourite authors are Gabriel García Márquez, Kaliprasanna Singha, Sunil Gangopadhyay, Manik Bandopadhyay, Bijon Bhattacharya, Bibhutibhushan Bandopadhyay, Narayan Sanyal, Amitava Ghosh, Shirshendu Mukhopadhyay, Premendra Mitra, Sukumar Ray, Ashapurna Devi, Arundhati Roy, Arthur Conan Doyle, Sharadindu Bandyopadhyay, Salman Rushdie, George Orwell, Franz Kafka, Sophocles and others.
 
 I wish to read the works of following authors and texts more throughly in future. Let me know if you can guide me.
 
