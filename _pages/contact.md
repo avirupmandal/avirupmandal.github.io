@@ -1,6 +1,7 @@
 ---
+layout: archive
+title: "Contact"
 permalink: /contact/
-title: "Drop Me a Line"
 author_profile: true
 redirect_from:
   - /contact/
@@ -10,10 +11,9 @@ redirect_from:
 
 Address
 ======
-* Vision and Image Processing Lab (EE 112)
-* Department of Electrical Engineering
-* Indian Institute of Technology Bombay
-* Mumbai, Maharashtra, India-400076
+* B.E. in Electronics & Tele-Communication Engineering, Jadavpur University, 2015
+* M.Tech. in Electrical Engineering, Indian Institute of Technology Bombay, 2018
+* Ph.D in Electrical Engineering, Indian Institute of Technology Bombay, 2023 (expected)
 
 Email
 ======
