@@ -13,4 +13,8 @@ redirect_from:
 
 ## Interactive Physics-Based Virtual Sculpting with Haptic Feedback
 **Avirup Mandal**, Parag Chaudhuri, Subhasis Chaudhuri, I3D 2022 *PACM CGIT*\
-[Paper](https://doi.org/10.1145/3522611)    [Project Page](https://avirupmandal.github.io/sculpt-i3d/)
+[Paper](https://doi.org/10.1145/3522611) $~~$ [Project Page](https://avirupmandal.github.io/sculpt-i3d/)
+
+## Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy
+**Avirup Mandal**, Parag Chaudhuri, Subhasis Chaudhuri, Arxiv 2022\
+[Paper](https://arxiv.org/abs/2112.04362) 
