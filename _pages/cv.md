@@ -24,7 +24,8 @@ Work experience
   
 Skills
 ======
-* C, C++
+* Languages 
+  * C, C++
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
