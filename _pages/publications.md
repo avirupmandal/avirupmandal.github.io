@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 **Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**
+Avirup Mandal, Parag Chaudhuri, Subhasis Chaudhuri, Arxiv 2021 [Under review]
