@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: ""
 permalink: /contact/
+title: "Drop Me a Line"
 author_profile: true
 redirect_from:
   - /contact/
