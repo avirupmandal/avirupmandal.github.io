@@ -24,7 +24,7 @@ redirect_from:
 [Poster](https://doi.org/10.1145/3450618.3469152) 
 
 ## Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime
-**Avirup Mandal**$\alpha$, Kumar Ayush$\dag$, and Parag Chaudhuri [$\dag$ Equal Contribution], VISIGRAPP (IVAPP) 2021 shortlisted for **Best Paper award**\
+**Avirup Mandal**<sup>*</sup>, Kumar Ayush$\dag$, and Parag Chaudhuri [$\dag$ Equal Contribution], VISIGRAPP (IVAPP) 2021 shortlisted for **Best Paper award**\
 [Paper](https://doi.org/10.5220/0010217600760087)
 
 ## Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture
