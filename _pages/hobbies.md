@@ -18,7 +18,7 @@ I wish to read the works of following authors and texts more throughly in future
 
 Astrophysics
 ======
-I take a keen interest in astrophysics specially in Relativistic Physics. You can call me a self-taught ameture astrophysicist. Some of the astrophysics books that I have read are as follows (*Warning: may not understand them fully or possibly misunderstood some concepts*).
+I take a keen interest in astrophysics specially in Relativistic Physics. You can call me a self-taught ameture astrophysicist. Some of the astrophysics books that I have read are as follows (*Warning: may not have understood them fully or possibly misunderstood some concepts*).
 
 *One, Two, Three...Infinity, The Road to Reality, A Brief History of Time, Relativity: Special, General, and Cosmological, Gravitation and cosmology: principles and applications of the general theory of relativity, The Mathematical Theory of Black Holes and a few more.* 
 
