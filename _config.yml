@@ -209,22 +209,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: posts
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
       comments: true
   # _portfolio
