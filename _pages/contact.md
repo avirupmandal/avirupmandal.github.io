@@ -11,9 +11,10 @@ redirect_from:
 
 Address
 ======
-* B.E. in Electronics & Tele-Communication Engineering, Jadavpur University, 2015
-* M.Tech. in Electrical Engineering, Indian Institute of Technology Bombay, 2018
-* Ph.D in Electrical Engineering, Indian Institute of Technology Bombay, 2023 (expected)
+* Vision and Image Processing Lab (EE 112)
+* Department of Electrical Engineering
+* Indian Institute of Technology Bombay
+* Mumbai, Maharashtra, India-400076
 
 Email
 ======
