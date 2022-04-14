@@ -22,3 +22,7 @@ redirect_from:
 ## Scalable Visual Simulation of Ductile and Brittle Fracture
 **Avirup Mandal**, Parag Chaudhuri, Subhasis Chaudhuri, SIGGRAPH Posters 2021\
 [Poster](https://doi.org/10.1145/3450618.3469152) 
+
+## Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime
+**Avirup Mandal**, Kumar Ayush, Parag Chaudhuri, VISIGRAPP (IVAPP) 2021 shortlisted for **Best Paper award**\
+[Paper](https://doi.org/10.5220/0010217600760087)
