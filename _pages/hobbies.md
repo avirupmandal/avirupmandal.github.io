@@ -16,4 +16,4 @@ Authors whom I wish to read more throughly (Let me know if you can guide me.): P
 
 Astrophysics
 ======
-I take a keen interest in astrophysics.
+I take a keen interest in astrophysics specially in Relativistic Physics. You can call me a self-taught ameture astrophysicist. Some of the books that I have read (*Warning: may not understand them fully or possibly misunderstood some concepts*) are One, Two, Three...Infinity, The Road to Reality, A Brief History of Time, Relativity: Special, General, and Cosmological, Gravitation and cosmology: principles and applications of the general theory of relativity, Mathematical Theory of Black Hole and a few more. 
