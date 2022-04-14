@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Avirup Mandal"
-  avatar           : "/images/personal-profile.png"
+  avatar           : "personal-profile.png"
   bio              : "Graphics & Haptics Scientist"
   location         : 
   employer         : "IIT Bombay"
