@@ -4,7 +4,6 @@ title: "Drop Me a Line"
 author_profile: true
 redirect_from:
   - /contact/
-  - /contact.html
 ---
 
 {% include base_path %}
