@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri, Arxiv 2021 *Under review*\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In Arxiv 2021. *Under review*.\
 [Paper](https://arxiv.org/abs/2103.14870) 
 
 ## Interactive Physics-Based Virtual Sculpting with Haptic Feedback
