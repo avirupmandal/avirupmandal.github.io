@@ -25,9 +25,8 @@ Work experience
 Skills
 ======
 * Languages 
-  * C, C++
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * C, C++, Java, Python
+* Softwares
+  * MATLAB, LATEX, Houdini, MeshLab, Visual Studio, Eclipse 
+* APIs
+  * OpenGL, CUDA
