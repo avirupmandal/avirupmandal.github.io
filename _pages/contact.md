@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: "Address"
 permalink: /contact/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Address
-======
 * Vision and Image Processing Lab (EE 112)
 * Department of Electrical Engineering
 * Indian Institute of Technology Bombay
