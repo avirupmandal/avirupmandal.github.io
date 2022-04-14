@@ -18,3 +18,7 @@ redirect_from:
 ## Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy
 **Avirup Mandal**, Parag Chaudhuri, Subhasis Chaudhuri, Arxiv 2022\
 [Paper](https://arxiv.org/abs/2112.04362) 
+
+## Scalable Visual Simulation of Ductile and Brittle Fracture
+**Avirup Mandal**, Parag Chaudhuri, Subhasis Chaudhuri, SIGGRAPH Posters 2021\
+[Poster](https://doi.org/10.1145/3450618.3469152) 
