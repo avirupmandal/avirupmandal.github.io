@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Education
 ======
 * B.E. in Electronics & Tele-Communication Engineering, Jadavpur University, 2015
 * M.Tech. in Electrical Engineering, Indian Institute of Technology Bombay, 2018
