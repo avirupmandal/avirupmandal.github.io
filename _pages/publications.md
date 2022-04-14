@@ -7,5 +7,4 @@ redirect_from:
   - /publications
 ---
 
-Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture
-======
+**Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**
