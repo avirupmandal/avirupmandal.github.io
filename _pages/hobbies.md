@@ -20,4 +20,4 @@ Astrophysics
 ======
 I take a keen interest in astrophysics specially in Relativistic Physics. You can call me a self-taught ameture astrophysicist. Some of the books that I have read (*Warning: may not understand them fully or possibly misunderstood some concepts*) are as follows.
 
-*One, Two, Three...Infinity, The Road to Reality, A Brief History of Time, Relativity: Special, General, and Cosmological, Gravitation and cosmology: principles and applications of the general theory of relativity, Mathematical Theory of Black Hole and a few more.* 
+*One, Two, Three...Infinity, The Road to Reality, A Brief History of Time, Relativity: Special, General, and Cosmological, Gravitation and cosmology: principles and applications of the general theory of relativity, The Mathematical Theory of Black Holes and a few more.* 
