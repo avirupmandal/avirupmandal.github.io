@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* B.E. in Electronics & Tele-Communication Engineering, Jadavpur University, 2011-2015
-* M.Tech. in Electrical Engineering, Indian Institute of Technology Bombay, 2016-2018
 * Ph.D in Electrical Engineering, Indian Institute of Technology Bombay, 2018-2023 (expected)
+* M.Tech. in Electrical Engineering, Indian Institute of Technology Bombay, 2016-2018
+* B.E. in Electronics & Tele-Communication Engineering, Jadavpur University, 2011-2015
 
 Work experience
 ======
