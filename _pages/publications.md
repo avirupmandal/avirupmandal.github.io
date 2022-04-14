@@ -17,7 +17,7 @@ redirect_from:
 
 ## Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In Arxiv 2022.\
-[Paper](https://arxiv.org/abs/2112.04362) 
+[Paper](https://arxiv.org/abs/2112.04362) $~~$ [Project Page](https://avirupmandal.github.io/sculpt-arxiv/)
 
 ## Scalable Visual Simulation of Ductile and Brittle Fracture
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In SIGGRAPH Posters 2021.\
