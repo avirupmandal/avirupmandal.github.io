@@ -9,207 +9,77 @@
 
 <url>
   <loc>https://avirupmandal.github.io/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
+  <lastmod>2022-04-17T06:25:33+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://avirupmandal.github.io/cv/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
+  <lastmod>2022-04-17T06:25:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://avirupmandal.github.io/publications/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
+  <lastmod>2022-04-17T06:25:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://avirupmandal.github.io/conference-talks/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
+  <lastmod>2022-04-17T06:25:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://avirupmandal.github.io/contact/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
+  <lastmod>2022-04-17T06:25:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://avirupmandal.github.io/sitemap/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
+  <loc>https://avirupmandal.github.io/hobbies/</loc>
+  <lastmod>2022-04-17T06:25:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://avirupmandal.github.io/sculpt-i3d/</loc>
-  <lastmod>2022-04-14T06:05:32+00:00</lastmod>
+  <lastmod>2022-04-14T16:00:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://avirupmandal.github.io/404.html</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
+  <loc>https://avirupmandal.github.io/sculpt-arxiv/</loc>
+  <lastmod>2022-04-14T16:02:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://avirupmandal.github.io/archive-layout-with-content/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/categories/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/collection-archive/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/markdown/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/non-menu-page/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/page-archive/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/portfolio/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/tags/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/talkmap.html</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/talks/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/teaching/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/terms/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/year-archive/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/markdown_generator/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/robots.txt</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/posts/2012/08/blog-post-4/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/posts/2014/08/blog-post-3/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/posts/2013/08/blog-post-2/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/posts/2012/08/blog-post-1/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/portfolio/portfolio-1/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/portfolio/portfolio-2/</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/publication/2009-10-01-paper-title-number-1</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/publication/2010-10-01-paper-title-number-2</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/publication/2015-10-01-paper-title-number-3</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/talks/2012-03-01-talk-1</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/talks/2013-03-01-tutorial-1</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/talks/2014-02-01-talk-2</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/talks/2014-03-01-talk-3</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/teaching/2014-spring-teaching-1</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://avirupmandal.github.io/teaching/2015-spring-teaching-1</loc>
-  <lastmod>2022-04-14T07:26:06+00:00</lastmod>
+  <loc>https://avirupmandal.github.io/blackhole-ivapp/</loc>
+  <lastmod>2022-04-14T16:41:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://avirupmandal.github.io/sculpt-i3d/resources/I3D2022_Virtual_sculpting_PACM_Author.pdf</loc>
-  <lastmod>2022-04-14T06:05:32+00:00</lastmod>
+  <lastmod>2022-04-14T16:00:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://avirupmandal.github.io/sculpt-i3d/resources/paper_bibtex.txt</loc>
-  <lastmod>2022-04-14T06:05:32+00:00</lastmod>
+  <lastmod>2022-04-14T16:00:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://avirupmandal.github.io/talkmap/map.html</loc>
-  <lastmod>2022-04-14T07:25:57+00:00</lastmod>
+  <loc>https://avirupmandal.github.io/sculpt-arxiv/resources/Virtual_sculpting_Arxiv.pdf</loc>
+  <lastmod>2022-04-14T16:02:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://avirupmandal.github.io/sculpt-arxiv/resources/paper_bibtex.txt</loc>
+  <lastmod>2022-04-14T16:02:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://avirupmandal.github.io/blackhole-ivapp/resources/IVAPP2021_Black_Hole.pdf</loc>
+  <lastmod>2022-04-14T16:41:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://avirupmandal.github.io/blackhole-ivapp/resources/paper_bibtex.txt</loc>
+  <lastmod>2022-04-14T16:41:23+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
