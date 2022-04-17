@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Vision and Image Processing Lab (EE 112)\
-Department of Electrical Engineering\
-Indian Institute of Technology Bombay\
+Vision and Image Processing Lab (EE 112),\
+Department of Electrical Engineering,\
+Indian Institute of Technology Bombay,\
 Mumbai, Maharashtra, India-400076
 
 Email
