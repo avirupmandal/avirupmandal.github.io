@@ -15,4 +15,4 @@ I completed my B.E. in [Electronics & Telecommunication Engineering](http://www.
 
 My research interests include Physics-based animation, Fracture dynamics, Haptics, High performance computing and Machine Learning.
 
-I am a recipient of [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2021-india) from India in 2021.
+I am a winner and super winner of [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2021-india) from India in 2021 and 2022 respectively.
