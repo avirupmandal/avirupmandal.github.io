@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-## SIGGRAPH Posters 2021 (Special Invitation in Technical Paper Oral Session)
-Scalable Visual Simulation of Ductile and Brittle Fracture 
+**SIGGRAPH Posters 2021 (Special Invitation in Technical Paper Oral Session)**\
+*Scalable Visual Simulation of Ductile and Brittle Fracture* <br> 
 
-## VISIGRAPP (IVAPP) 2021 (Technical Paper Oral Session)
-Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime
+**VISIGRAPP (IVAPP) 2021 (Technical Paper Oral Session)**\
+*Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime* <br>
 
-## EuroHaptics 2018 (Technical Paper Poster Session)
-Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture
+**EuroHaptics 2018 (Technical Paper Poster Session)**\
+*Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture*
