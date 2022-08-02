@@ -8,23 +8,23 @@ redirect_from:
 ---
 
 **Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In Arxiv. *Under review*.\
-[Paper](https://arxiv.org/abs/2103.14870)
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv. Under review*.\
+[Paper](https://arxiv.org/abs/2103.14870) \
 
 **Artist Controlled Fracture Design Using Impurity Maps**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In SIGGRAPH Posters 2022.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*.\
 [Poster](https://doi.org/10.1145/3532719.3543202)  
 
 ## Interactive Physics-Based Virtual Sculpting with Haptic Feedback
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In I3D 2022 & PACM CGIT.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *I3D 2022 & PACM CGIT*.\
 [Paper](https://doi.org/10.1145/3522611) $~~$ [Project Page](https://avirupmandal.github.io/sculpt-i3d/)
 
 ## Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In Arxiv 2022.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv*.\
 [Paper](https://arxiv.org/abs/2112.04362) $~~$ [Project Page](https://avirupmandal.github.io/sculpt-arxiv/)
 
 ## Scalable Visual Simulation of Ductile and Brittle Fracture
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In SIGGRAPH Posters 2021. *Presented in Technical Paper Session*.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*. *Presented in Technical Paper Session*.\
 [Poster](https://doi.org/10.1145/3450618.3469152) 
 
 ## Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime
