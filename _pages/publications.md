@@ -17,19 +17,19 @@ redirect_from:
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *I3D 2022 & PACM CGIT*.\
-<a href="https://doi.org/10.1145/3522611" style="text-decoration:none">Paper</a> $~~$ <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
+<a href="https://doi.org/10.1145/3522611" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
 
 **Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv*.\
-<a href="https://arxiv.org/abs/2112.04362" style="text-decoration:none">Paper</a> $~~$ <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">Project Page</a> <br>
+<a href="https://arxiv.org/abs/2112.04362" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">Project Page</a> <br>
 
 **Scalable Visual Simulation of Ductile and Brittle Fracture**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*. <span style="color:blue">*Presented in Technical Paper Session*</span>.\
-<a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Abstract</a> $~~$ <a href='#' style="text-decoration:none">Poster</a> $~~$ <a href='../videos/poster_sig_21.mp4' style="text-decoration:none">Video</a> <br>
+<a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Abstract</a> &nbsp; <a href='#' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none">Video</a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
 **A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *VISIGRAPP (IVAPP) 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
-<a href="https://doi.org/10.5220/0010217600760087" style="text-decoration:none">Paper</a> $~~$ <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none">Project Page</a> <br>
+<a href="https://doi.org/10.5220/0010217600760087" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none">Project Page</a> <br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
 **A. Mandal**, D. Sardar, and S. Chaudhuri. *EuroHaptics 2018*.\
