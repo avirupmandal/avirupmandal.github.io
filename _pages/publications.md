@@ -24,7 +24,7 @@ redirect_from:
 [Paper](https://arxiv.org/abs/2112.04362) $~~$ [Project Page](https://avirupmandal.github.io/sculpt-arxiv/)
 
 ## Scalable Visual Simulation of Ductile and Brittle Fracture
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In SIGGRAPH Posters 2021. *Presented in Technical Paper Session*\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In SIGGRAPH Posters 2021. *Presented in Technical Paper Session*.\
 [Poster](https://doi.org/10.1145/3450618.3469152) 
 
 ## Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime
