@@ -28,7 +28,7 @@ redirect_from:
 [Poster](https://doi.org/10.1145/3450618.3469152) <br><br> 
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
-**A. Mandal** &dagger, K. Ayush &dagger, and P. Chaudhuri. *VISIGRAPP (IVAPP) 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
+**A. Mandal** \#, K. Ayush \#, and P. Chaudhuri. *VISIGRAPP (IVAPP) 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
 [Paper](https://doi.org/10.5220/0010217600760087) $~~$ [Project Page](https://avirupmandal.github.io/blackhole-ivapp/) <br><br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
