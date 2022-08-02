@@ -13,7 +13,7 @@ redirect_from:
 
 **Artist Controlled Fracture Design Using Impurity Maps**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*.\
-[Poster](https://doi.org/10.1145/3532719.3543202)<br><br>  
+[Poster](https://doi.org/10.1145/3532719.3543202) <br><br>  
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *I3D 2022 & PACM CGIT*.\
@@ -25,15 +25,15 @@ redirect_from:
 
 **Scalable Visual Simulation of Ductile and Brittle Fracture**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*. <span style="color:blue">*Presented in Technical Paper Session*</span>.\
-[Poster](https://doi.org/10.1145/3450618.3469152)<br><br> 
+[Poster](https://doi.org/10.1145/3450618.3469152) <br><br> 
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
 **A. Mandal**, K. Ayush, and P. Chaudhuri. *VISIGRAPP (IVAPP) 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
-[Paper](https://doi.org/10.5220/0010217600760087) $~~$ [Project Page](https://avirupmandal.github.io/blackhole-ivapp/)<br><br>
+[Paper](https://doi.org/10.5220/0010217600760087) $~~$ [Project Page](https://avirupmandal.github.io/blackhole-ivapp/) <br><br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
 **A. Mandal**, D. Sardar, and S. Chaudhuri. *EuroHaptics 2018*.\
-[Paper](https://doi.org/10.1007/978-3-319-93399-3_34)<br><br>
+[Paper](https://doi.org/10.1007/978-3-319-93399-3_34) <br><br>
 
 **Generic Data Compression for Heart Diagnosis**\
 T. Kundu, K. Lahiri, **A. Mandal**, A. Mukherjee, M. K. Naskar, and S. Sinha. *U.S. Patent 9477701 B1 2016*.\
