@@ -13,7 +13,7 @@ redirect_from:
 
 **Artist Controlled Fracture Design Using Impurity Maps**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*.\
-<a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">Poster</a> <br>  
+<a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">Abstract</a> <br>  
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *I3D 2022 & PACM CGIT*.\
@@ -25,7 +25,7 @@ redirect_from:
 
 **Scalable Visual Simulation of Ductile and Brittle Fracture**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*. <span style="color:blue">*Presented in Technical Paper Session*</span>.\
-<a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Poster</a> <br>
+<a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Abstract</a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
 **A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *VISIGRAPP (IVAPP) 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
