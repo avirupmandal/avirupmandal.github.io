@@ -9,15 +9,15 @@ redirect_from:
 
 **Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv. Under review*.\
-<a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">Paper</a> [Paper](https://arxiv.org/abs/2103.14870) <br>
+<a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">Paper</a> <br>
 
 **Artist Controlled Fracture Design Using Impurity Maps**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*.\
-[Poster](https://doi.org/10.1145/3532719.3543202) <br>  
+<a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">Poster</a> <br>  
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *I3D 2022 & PACM CGIT*.\
-[Paper](https://doi.org/10.1145/3522611) $~~$ [Project Page](https://avirupmandal.github.io/sculpt-i3d/) <br>
+<a href="https://doi.org/10.1145/3522611" style="text-decoration:none">Paper</a> $~~$ <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
 
 **Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv*.\
