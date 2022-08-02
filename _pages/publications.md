@@ -9,7 +9,7 @@ redirect_from:
 
 **Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv. Under review*.\
-[Paper](https://arxiv.org/abs/2103.14870) <br>
+[Paper](https://arxiv.org/abs/2103.14870) <br><br>
 **Artist Controlled Fracture Design Using Impurity Maps**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*.\
 [Poster](https://doi.org/10.1145/3532719.3543202)  
