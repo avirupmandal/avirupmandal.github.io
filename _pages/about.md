@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my MTech-PhD dual degree in Communication Engineering from the Department of [Electrical Engineering](https://www.ee.iitb.ac.in/web) 
-of [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am fortunate to have two amazing professors, 
-[Dr. Parag Chaudhuri](https://www.cse.iitb.ac.in/~paragc/) and [Dr. Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/), as my advisors. 
-I completed my B.E. in [Electronics & Telecommunication Engineering](http://www.jaduniv.edu.in/view_department.php?deptid=84) from [Jadavpur University](http://www.jaduniv.edu.in/), Kolkata in 2015. 
+I am currently pursuing my MTech-PhD dual degree in Communication Engineering from the Department of <a href="https://www.ee.iitb.ac.in/web" style="text-decoration:none">Electrical Engineering</a> 
+of <a href="https://www.iitb.ac.in/" style="text-decoration:none">Indian Institute of Technology Bombay</a>. I am advised by 
+Prof. <a href="https://www.cse.iitb.ac.in/~paragc/" style="text-decoration:none">Parag Chaudhuri</a> and Prof. <a href="https://www.ee.iitb.ac.in/~sc/" style="text-decoration:none">Subhasis Chaudhuri</a>. 
+I completed my B.E. in <a href="http://www.jaduniv.edu.in/view_department.php?deptid=84" style="text-decoration:none">Electronics & Telecommunication Engineering</a> from 
+<a href="http://www.jaduniv.edu.in/" style="text-decoration:none">Jadavpur University</a>, Kolkata in 2015. 
 
 My research interests include Physics-based animation, Fracture dynamics, Haptics, High performance computing and Machine Learning.
 
-I am a winner and super winner of [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2021-india) from India in 2021 and 2022 respectively.
+I am a winner and super winner of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship" style="text-decoration:none">Qualcomm Innovation Fellowship</a> from India in 2021 and 2022 respectively.
