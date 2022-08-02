@@ -8,8 +8,12 @@ redirect_from:
 ---
 
 ## Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In Arxiv 2021. *Under review*.\
-[Paper](https://arxiv.org/abs/2103.14870) 
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In Arxiv. *Under review*.\
+[Paper](https://arxiv.org/abs/2103.14870)
+
+## Artist Controlled Fracture Design Using Impurity Maps
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In SIGGRAPH Posters 2022.\
+[Poster](https://doi.org/10.1145/3532719.3543202)  
 
 ## Interactive Physics-Based Virtual Sculpting with Haptic Feedback
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In I3D 2022. *PACM CGIT*.\
@@ -20,11 +24,11 @@ redirect_from:
 [Paper](https://arxiv.org/abs/2112.04362) $~~$ [Project Page](https://avirupmandal.github.io/sculpt-arxiv/)
 
 ## Scalable Visual Simulation of Ductile and Brittle Fracture
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In SIGGRAPH Posters 2021.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. In SIGGRAPH Posters 2021. **Special Presenation in Technical Paper Session**\
 [Poster](https://doi.org/10.1145/3450618.3469152) 
 
 ## Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime
-**A. Mandal** <sup>*</sup>, K. Ayush <sup>*</sup>, and P. Chaudhuri. [Equal Contribution]. In VISIGRAPP (IVAPP) 2021. Shortlisted for **Best Paper award**.\
+**A. Mandal** <sup>*</sup>, K. Ayush <sup>*</sup>, and P. Chaudhuri. In VISIGRAPP (IVAPP) 2021. **Best Paper Finalist**.\
 [Paper](https://doi.org/10.5220/0010217600760087) $~~$ [Project Page](https://avirupmandal.github.io/blackhole-ivapp/)
 
 ## Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture
