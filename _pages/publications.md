@@ -24,8 +24,8 @@ redirect_from:
 <a href="https://arxiv.org/abs/2112.04362" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">Project Page</a> <br>
 
 **Scalable Visual Simulation of Ductile and Brittle Fracture**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*. <span style="color:blue">*Presented in Technical Paper Session*</span>.\
-<a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Abstract</a> &nbsp; <a href='#' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none">Video</a> <br>
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*. <span style="color:blue">Presented in Technical Paper Session</span>.\
+<a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Abstract</a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none">Video</a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
 **A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *VISIGRAPP (IVAPP) 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
