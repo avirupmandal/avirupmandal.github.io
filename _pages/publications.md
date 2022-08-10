@@ -12,7 +12,7 @@ redirect_from:
 <a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">Paper</a> <br>
 
 **Artist Controlled Fracture Design Using Impurity Maps**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*. <span style="color:blue">Presented in Technical Paper Oral Session</span>.\
 <a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">Abstract</a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none">Video</a> <br>  
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
@@ -24,7 +24,7 @@ redirect_from:
 <a href="https://arxiv.org/abs/2112.04362" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">Project Page</a> <br>
 
 **Scalable Visual Simulation of Ductile and Brittle Fracture**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*. <span style="color:blue">Presented in Technical Paper Session</span>.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*. <span style="color:blue">Presented in Technical Paper Oral Session</span>.\
 <a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Abstract</a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none">Video</a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
