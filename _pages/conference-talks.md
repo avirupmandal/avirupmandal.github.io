@@ -7,6 +7,8 @@ redirect_from:
   - /conference-talks
 ---
 
+**SIGGRAPH Posters 2022 (Special Invitation in Technical Paper Oral Session)**\
+*Artist Controlled Fracture Design Using Impurity Maps* <br> 
 
 **SIGGRAPH Posters 2021 (Special Invitation in Technical Paper Oral Session)**\
 *Scalable Visual Simulation of Ductile and Brittle Fracture* <br> 
