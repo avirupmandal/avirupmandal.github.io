@@ -13,7 +13,7 @@ redirect_from:
 
 **Artist Controlled Fracture Design Using Impurity Maps**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*. <span style="color:blue">Presented in Technical Paper Oral Session</span>.\
-<a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">Abstract</a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none">Video</a> &nbsp; <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none color:red">SRC Semi-Finalist</a><br>  
+<a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">Abstract</a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none">Video</a> &nbsp; <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none">SRC Semi-Finalist</a><br>  
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *I3D 2022 & PACM CGIT*.\
