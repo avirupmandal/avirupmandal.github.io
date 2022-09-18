@@ -7,6 +7,8 @@ redirect_from:
   - /publications
 ---
 
+## Journal/Conference Papers
+
 **Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv. Under review*.\
 <a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">Paper</a> <br>
