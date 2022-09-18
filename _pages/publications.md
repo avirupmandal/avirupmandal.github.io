@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-## <span style="color:Maroon "> Journal/Conference Papers </span>
+## <span style="color:Maroon"> Journal/Conference Papers </span>
 
 **Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv. Under review*.\
@@ -29,7 +29,7 @@ redirect_from:
 **A. Mandal**, D. Sardar, and S. Chaudhuri. *EuroHaptics 2018*.\
 <a href="https://doi.org/10.1007/978-3-319-93399-3_34" style="text-decoration:none">Paper</a> <br>
 
-## Posters
+## <span style="color:Maroon"> Posters </span>
 
 **Artist Controlled Fracture Design Using Impurity Maps**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*. <span style="color:blue">Presented in Technical Paper Oral Session</span>.\
@@ -39,7 +39,7 @@ redirect_from:
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*. <span style="color:blue">Presented in Technical Paper Oral Session</span>.\
 <a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Abstract</a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none">Video</a> <br>
 
-## Patents
+## <span style="color:Maroon"> Patents </span>
 
 **Generic Data Compression for Heart Diagnosis**\
 T. Kundu, K. Lahiri, **A. Mandal**, A. Mukherjee, M. K. Naskar, and S. Sinha. *U.S. Patent 9477701 B1 2016*.\
