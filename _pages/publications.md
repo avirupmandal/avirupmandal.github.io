@@ -39,7 +39,7 @@ redirect_from:
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*.\
 <a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Abstract</a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none">Video</a> <br>
 
-<span style="color:red"> <sup>1</sup> *Specially shotlisted for Technical Paper Oral Session presentation*</span>.
+<span style="color:red"> <sup>1</sup> *Specially selected for Technical Paper Oral Session presentation*</span>.
 
 ## <span style="color:Maroon"> Patents </span>
 
