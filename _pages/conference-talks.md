@@ -7,6 +7,9 @@ redirect_from:
   - /conference-talks
 ---
 
+**I3D 2022 (Technical Paper Oral Session)**\
+*Interactive Physics-Based Virtual Sculpting with Haptic Feedback* <br>
+
 **SIGGRAPH Posters 2022 (Special Invitation in Technical Paper Oral Session)**\
 *Artist Controlled Fracture Design Using Impurity Maps* <br> 
 
