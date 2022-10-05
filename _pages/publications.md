@@ -14,11 +14,11 @@ redirect_from:
 <a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">Paper</a> <br>
 
 **Simulating Fracture in Anisotropic Materials Containing Impurities**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *MIG 2022*.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *MIG. 2022*.\
 <a href="https://doi.org/10.1145/3561975.3562956" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/randomgraph-mig22/" style="text-decoration:none">Project Page</a> <br>
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *I3D 2022 & PACM CGIT*.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *ACM Computer Graphics and Interactive Techniques (I3D). 2022*.\
 <a href="https://doi.org/10.1145/3522611" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
 
 **Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
@@ -26,21 +26,21 @@ redirect_from:
 <a href="https://arxiv.org/abs/2112.04362" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">Project Page</a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
-**A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *VISIGRAPP (IVAPP) 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
+**A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *VISIGRAPP (IVAPP). 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
 <a href="https://doi.org/10.5220/0010217600760087" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none">Project Page</a> <br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
-**A. Mandal**, D. Sardar, and S. Chaudhuri. *EuroHaptics 2018*.\
+**A. Mandal**, D. Sardar, and S. Chaudhuri. *EuroHaptics. 2018*.\
 <a href="https://doi.org/10.1007/978-3-319-93399-3_34" style="text-decoration:none">Paper</a> <br>
 
 ## <span style="color:Maroon"> Posters </span>
 
 **Artist Controlled Fracture Design Using Impurity Maps**<span style="color:red"><sup>**1**</sup></span>\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2022*. <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:blue">**SRC Semi-Finalist**</span></a>.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters. 2022*. <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:blue">**SRC Semi-Finalist**</span></a>.\
 <a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">Abstract</a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none">Video</a> <br>  
 
 **Scalable Visual Simulation of Ductile and Brittle Fracture**<span style="color:red"><sup>**1**</sup></span>\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters 2021*.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters. 2021*.\
 <a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">Abstract</a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none">Poster</a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none">Video</a> <br>
 
 <span style="color:red"> <sup>**1**</sup> *Specially selected for Technical Paper Oral Session presentation*</span>.
