@@ -10,7 +10,7 @@ redirect_from:
 ## <span style="color:Maroon"> Journal/Conference Papers </span>
 
 **Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv. Under review*.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv (not the most updated version). Under review*.\
 <a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">Paper</a> <br>
 
 **Simulating Fracture in Anisotropic Materials Containing Impurities**\
