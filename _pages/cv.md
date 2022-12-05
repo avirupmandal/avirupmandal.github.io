@@ -17,7 +17,7 @@ Work experience
 ======
 * Summer Internship in Indian Statistical Institute Kolkata, 2014 
   * Project: Object detection and tracking
-  * Supervisor: Professor Kumar Sankar Ray
+  * Mentor: Professor Kumar Sankar Ray
   
 Skills
 ======
