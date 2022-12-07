@@ -10,8 +10,8 @@ redirect_from:
 ## <span style="color:Maroon"> Journal/Conference Papers </span>
 
 **Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv (not the most updated version). Under review*.\
-<a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">Paper</a> <br>
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Accepted to CGF.*.\
+<a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">Paper (Old Version)</a> <br>
 
 **Simulating Fracture in Anisotropic Materials Containing Impurities**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *ACM SIGGRAPH Conference on Motion, Interaction and Game (MIG). 2022*.\
@@ -22,7 +22,7 @@ redirect_from:
 <a href="https://doi.org/10.1145/3522611" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
 
 **Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Arxiv*.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Accepted to GRAPP. 2023*.\
 <a href="https://arxiv.org/abs/2112.04362" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">Project Page</a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
