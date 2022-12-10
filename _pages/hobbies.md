@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 Reading
 ======
-I like reading novels, short stories and popular science books. Some of my favourite authors are Gabriel García Márquez, Kaliprasanna Singha, Sunil Gangopadhyay, Manik Bandopadhyay, Bijon Bhattacharya, Bibhutibhushan Bandopadhyay, Narayan Sanyal, Amitava Ghosh, Shirshendu Mukhopadhyay, Premendra Mitra, Sukumar Ray, Ashapurna Devi, Arundhati Roy, Arthur Conan Doyle, Sharadindu Bandyopadhyay, Salman Rushdie, George Orwell, Franz Kafka, Sophocles and others.
+I like reading novels, short stories and popular science books. 
+## Some of my favourite authors are Gabriel García Márquez, Kaliprasanna Singha, Sunil Gangopadhyay, Manik Bandopadhyay, Bijon Bhattacharya, Bibhutibhushan Bandopadhyay, Narayan Sanyal, Amitava Ghosh, Shirshendu Mukhopadhyay, Premendra Mitra, Sukumar Ray, Ashapurna Devi, Arundhati Roy, Arthur Conan Doyle, Sharadindu Bandyopadhyay, Salman Rushdie, George Orwell, Franz Kafka, Sophocles and others.
 
 A list of books that I have read or wish to read in future can be found <a href="https://avirupmandal.github.io/general-books/" style="text-decoration:none">here</a>.
 
