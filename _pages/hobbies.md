@@ -12,9 +12,8 @@ Reading
 ======
 I like reading novels and short stories. Some of my favourite authors are Gabriel García Márquez, Kaliprasanna Singha, Sunil Gangopadhyay, Manik Bandopadhyay, Bijon Bhattacharya, Bibhutibhushan Bandopadhyay, Narayan Sanyal, Amitava Ghosh, Shirshendu Mukhopadhyay, Premendra Mitra, Sukumar Ray, Ashapurna Devi, Arundhati Roy, Arthur Conan Doyle, Sharadindu Bandyopadhyay, Salman Rushdie, George Orwell, Franz Kafka, Sophocles and others.
 
-I wish to read the works of following authors and texts more throughly in future. Let me know if you can guide me.
+A list of books that I have read or wish to read in future can be found <a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">here</a>.
 
-*Puranas, Ancient Indian Literature (Mahakavi Kalidas, Shudraka and others), Mangalkavya, Maithil Kavi Kokil Vidyapati, Biswakobi Rabindranath Tagore, William Shakespeare, Miguel de Cervantes, Russian Literature (Leo Tolstoy, Fyodor Dostoevsky, Anton Chekhov and others).*
 
 Astrophysics
 ======
