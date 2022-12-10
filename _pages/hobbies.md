@@ -17,7 +17,7 @@ A list of books that I have read or wish to read in future can be found <a href=
 
 Astrophysics
 ======
-I take a keen interest in astrophysics specially in Relativistic Physics. You can call me a self-taught ameture astrophysicist. Books related to astrophysics and similar subjects that I have read are as listed <a href="https://avirupmandal.github.io/general-books/" style="text-decoration:none">here</a>. (*Warning: may not have understood them fully or possibly misunderstood some concepts*).
+I take a keen interest in astrophysics specially in Relativistic Physics. You can call me a self-taught ameture astrophysicist. Books related to astrophysics and similar subjects that I have read are as listed <a href="https://avirupmandal.github.io/technical-books/" style="text-decoration:none">here</a>. (*Warning: may not have understood them fully or possibly misunderstood some concepts*).
 
 
 **Feel free to drop me line if our interests match. I am always up for a healthy discussion.** 
