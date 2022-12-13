@@ -18,7 +18,7 @@ redirect_from:
 <a href="https://doi.org/10.1145/3561975.3562956" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/randomgraph-mig22/" style="text-decoration:none">Project Page</a> <br>
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *ACM Computer Graphics and Interactive Techniques (I3D). 2022*.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D). 2022. Journal version appeared in ACM Computer Graphics and Interactive Techniques (CGIT).*\
 <a href="https://doi.org/10.1145/3522611" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
 
 **Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
