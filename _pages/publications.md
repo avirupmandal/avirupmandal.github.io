@@ -9,9 +9,9 @@ redirect_from:
 
 ## <span style="color:Maroon"> Journal/Conference Papers </span>
 
-**Remeshing-Free Graph-Based Finite Element Method for Ductile and Brittle Fracture**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Accepted to Computer Graphics Forum*.\
-<a href="https://arxiv.org/abs/2103.14870" style="text-decoration:none">Paper (Old Version)</a> <br>
+**Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation**\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Computer Graphics Forum. 2022*.\
+<a href='../files/CGF_paper_main_2022.pdf' style="text-decoration:none">Paper</a> <a href='../files/CGF_paper_supplement_2022.pdf' style="text-decoration:none">Supplementary</a> <br>
 
 **Simulating Fracture in Anisotropic Materials Containing Impurities**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG). 2022*.\
