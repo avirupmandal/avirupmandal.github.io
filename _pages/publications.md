@@ -11,7 +11,7 @@ redirect_from:
 
 **Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Computer Graphics Forum. 2022*.\
-<a href='../files/CGF_paper_main_2022.pdf' style="text-decoration:none">Paper</a> <a href='../files/CGF_paper_supplement_2022.pdf' style="text-decoration:none">Supplementary</a> <br>
+<a href='../files/CGF_paper_main_2022.pdf' style="text-decoration:none">Paper</a> &nbsp; <a href='../files/CGF_paper_supplement_2022.pdf' style="text-decoration:none">Supplementary</a> <br>
 
 **Simulating Fracture in Anisotropic Materials Containing Impurities**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG). 2022*.\
