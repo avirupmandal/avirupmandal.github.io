@@ -23,11 +23,11 @@ redirect_from:
 <a href="https://doi.org/10.1145/3522611" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
 
 **Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Accepted to GRAPP. 2023*.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP. 2023*.\
 <a href="https://arxiv.org/abs/2112.04362" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">Project Page</a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
-**A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *VISIGRAPP (IVAPP). 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
+**A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. * International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications -IVAPP. 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
 <a href="https://doi.org/10.5220/0010217600760087" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none">Project Page</a> <br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
