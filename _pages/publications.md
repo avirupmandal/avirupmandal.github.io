@@ -11,24 +11,24 @@ redirect_from:
 
 **Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *Computer Graphics Forum. 2022*.\
-<a href='https://doi.org/10.1111/cgf.14725' style="text-decoration:none">Paper</a> &nbsp; <a href='https://avirupmandal.github.io/fracture-cgf2022/' style="text-decoration:none">Project Page</a> <br>
+<a href='../files/CGF_paper_main_2022.pdf' style="text-decoration:none">Paper</a> &nbsp; <a href='https://avirupmandal.github.io/fracture-cgf2022/' style="text-decoration:none">Project Page</a> <br>
 
 **Simulating Fracture in Anisotropic Materials Containing Impurities**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG). 2022*.\
-<a href="https://doi.org/10.1145/3561975.3562956" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/randomgraph-mig22/" style="text-decoration:none">Project Page</a> <br>
+<a href="../files/MIG2022_Random_Graph_Author_Copy.pdf" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/randomgraph-mig22/" style="text-decoration:none">Project Page</a> <br>
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D). 2022*.\
 *Journal version appeared in Proceedings of the ACM on Computer Graphics and Interactive Techniques (CGIT)*.\
-<a href="https://doi.org/10.1145/3522611" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
+<a href="../files/I3D2022_Virtual_sculpting_PACM_Author.pdf" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
 
 **Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP. 2023*.\
-<a href="https://arxiv.org/abs/2112.04362" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">Project Page</a> <br>
+<a href="../files/GRAPP2023_deformation.pdf" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">Project Page</a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
 **A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications -IVAPP. 2021*. <span style="color:red">**Best Paper Finalist**</span>.\
-<a href="https://doi.org/10.5220/0010217600760087" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none">Project Page</a> <br>
+<a href="../files/IVAPP2021_Black_Hole.pdf" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none">Project Page</a> <br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
 **A. Mandal**, D. Sardar, and S. Chaudhuri. *EuroHaptics. 2018*.\
