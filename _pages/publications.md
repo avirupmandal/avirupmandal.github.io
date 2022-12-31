@@ -19,7 +19,7 @@ redirect_from:
 
 **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D). 2022*.\
-*Journal version appeared in Proceedings of the ACM on Computer Graphics and Interactive Techniques (CGIT)*.\
+*Journal version appeared in Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACMCGIT)*.\
 <a href="../files/I3D2022_Virtual_sculpting_PACM_Author.pdf" style="text-decoration:none">Paper</a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">Project Page</a> <br>
 
 **Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
