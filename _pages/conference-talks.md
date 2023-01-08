@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /conference-talks
 ---
+**MIG 2022 (Technical Paper Oral Session)**\
+*Simulating Fracture in Anisotropic Materials Containing Impurities*. <br>
 
 **I3D 2022 (Technical Paper Oral Session)**\
 *Interactive Physics-Based Virtual Sculpting with Haptic Feedback*. <br>
