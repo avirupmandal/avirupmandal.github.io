@@ -15,7 +15,7 @@ I like reading novels, short stories and popular science books in my spare time.
 
 Astrophysics
 ======
-I take a keen interest in astrophysics specially in Relativistic Physics. You can call me a self-taught amateur astrophysicist. Some of the books related to astrophysics and similar subjects that I have read are listed <a href="https://avirupmandal.github.io/technical-books/" style="text-decoration:none">here</a>.
+I take a keen interest in astrophysics particularly in Special and General Relativity. You can call me a self-taught amateur astrophysicist. Some of the books related to astrophysics and similar subjects that I have read are listed <a href="https://avirupmandal.github.io/technical-books/" style="text-decoration:none">here</a>.
 
 
 **Feel free to drop me line if our interests match. I am always up for a healthy discussion.** 
