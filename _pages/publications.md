@@ -22,7 +22,7 @@ redirect_from:
 *Journal version appeared in Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACMCGIT)*.\
 <a href="../files/I3D2022_Virtual_sculpting_PACM_Author.pdf" style="text-decoration:none"><span style="color:blue">[Paper]</span></a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none"><span style="color:blue">[Project Page]</span></a> <br>
 
-**Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
+**Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
 **A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP. 2023*.\
 <a href="../files/GRAPP2023_deformation.pdf" style="text-decoration:none"><span style="color:blue">[Paper]</span></a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none"><span style="color:blue">[Project Page]</span></a> <br>
 
