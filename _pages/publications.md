@@ -27,7 +27,7 @@ redirect_from:
 <a href="../files/GRAPP2023_deformation.pdf" style="text-decoration:none"><span style="color:blue">[Paper]</span></a> &nbsp; <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none"><span style="color:blue">[Project Page]</span></a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
-**A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications -IVAPP. 2021*. <span style="color:red">Best Paper Finalist</span>.\
+**A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP. 2021*. <span style="color:red">Best Paper Finalist</span>.\
 <a href="../files/IVAPP2021_Black_Hole.pdf" style="text-decoration:none"><span style="color:blue">[Paper]</span></a> &nbsp; <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none"><span style="color:blue">[Project Page]</span></a> <br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
