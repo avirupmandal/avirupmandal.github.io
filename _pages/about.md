@@ -16,6 +16,6 @@ Earlier, I completed my B.E. in <a href="http://www.jaduniv.edu.in/view_departme
 My research interests include Physics-based animation, Fracture dynamics, Haptics, High performance computing and Machine Learning.
 I am a winner and super winner of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship" style="text-decoration:none">Qualcomm Innovation Fellowship</a> from India in 2021 and 2022 respectively.
 
-**Academic Materials:** <a href='../files/Resume_Avirup.pdf' style="text-decoration:none"> <span style="color:blue">[Curriculum Vitae]</span> </a> &nbsp; <a href='../files/Research_Statement_Avirup.pdf' style="text-decoration:none"> <span style="color:blue">[Research Statement]</span> </a>
+**Academic Materials:** <a href='../files/Resume_Avirup.pdf' style="text-decoration:none"> <span style="color:Navy">[Curriculum Vitae]</span> </a> &nbsp; <a href='../files/Research_Statement_Avirup.pdf' style="text-decoration:none"> <span style="color:Navy">[Research Statement]</span> </a>
 
 <span style="color:red">News</span>: **I am looking for postdoc/researcher position in university/industry. Please reach out if you have any leads.**
