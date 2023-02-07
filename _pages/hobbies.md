@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Reading
 ======
-I like reading novels, short stories and popular science books in my spare time. Some of the books that I have read or wish to read in future can be found <a href="https://avirupmandal.github.io/general-books/" style="text-decoration:none"><span style="color:RoyalBlue">here</span></a>.
+I like reading novels, short stories and popular science books in my spare time. Some of the books that I have read can be found <a href="https://avirupmandal.github.io/general-books/" style="text-decoration:none"><span style="color:RoyalBlue">here</span></a>.
 
 
 Astrophysics
