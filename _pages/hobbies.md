@@ -18,4 +18,4 @@ Astrophysics
 I take a keen interest in astrophysics particularly in Special and General Relativity. You can call me a self-taught amateur astrophysicist. Some of the books related to astrophysics and similar subjects that I have read are listed <a href="https://avirupmandal.github.io/technical-books/" style="text-decoration:none"><span style="color:RoyalBlue">here</span></a>.
 
 
-**Feel free to drop me a line if our interests match. I am always up for a healthy discussion.** 
+**Feel free to drop me a line if our interests match (or not). I am always up for a healthy discussion.** 
