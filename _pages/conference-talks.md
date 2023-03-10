@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /conference-talks
 ---
+**GRAPP 2023 (Technical Paper Oral Session)**\
+*Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy*. <br>
+
 **MIG 2022 (Technical Paper Oral Session)**\
 *Simulating Fracture in Anisotropic Materials Containing Impurities*. <br>
 
