@@ -27,7 +27,7 @@ redirect_from:
 <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/GRAPP2023_deformation.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a> <br>
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
-**A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP. 2021*. <span style="color:red">Best Paper Finalist</span>.\
+**A. Mandal**\*, K. Ayush\*, and P. Chaudhuri. *International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP. 2021*. <span style="color:red"><b>Best Paper Finalist</b></span>.\
 <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/IVAPP2021_Black_Hole.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a> <br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
@@ -37,7 +37,7 @@ redirect_from:
 ## <span style="color:Maroon"> Posters </span>
 
 **Artist Controlled Fracture Design Using Impurity Maps**<span style="color:red"><sup>**1**</sup></span>\
-**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters. 2022*. <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red">[SRC Semi-Finalist]</span></a>.\
+**A. Mandal**, P. Chaudhuri, and S. Chaudhuri. *SIGGRAPH Posters. 2022*. <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red">[<b>SRC Semi-Finalist</b>]</span></a>.\
 <a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a> <br>  
 
 **Scalable Visual Simulation of Ductile and Brittle Fracture**<span style="color:red"><sup>**1**</sup></span>\
