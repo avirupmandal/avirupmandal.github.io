@@ -30,14 +30,15 @@ redirect_from:
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP. 2023.</i><br>
 <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/GRAPP2023_deformation.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a></span> <br>
 
-**Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**<br>
-<span style="font-size: 16px">Avirup Mandal\*, Kumar Ayush\*, and Parag Chaudhuri. <br>
-<i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP. 2021.</i> <span style="color:red"><b>Best Paper Finalist</b></span>.<br>
+**Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**. <span style="color:red; "font-size: 16px""><b>Best Paper Finalist</b></span>.<br>
+<span style="font-size: 16px"><b>Avirup Mandal</b>\*, Kumar Ayush\*, and Parag Chaudhuri. <br>
+<i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP. 2021.</i><br>
 <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/IVAPP2021_Black_Hole.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a></span> <br>
 
-**Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
-**A. Mandal**, D. Sardar, and S. Chaudhuri. *EuroHaptics. 2018*.\
-<a href="https://doi.org/10.1007/978-3-319-93399-3_34" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a> <br>
+**Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**<br>
+<span style="font-size: 16px"><b>Avirup Mandal</b>, Dwaipayan Sardar, and Subhasis Chaudhuri. <br>
+<i>EuroHaptics. 2018.</i><br>
+<a href="https://doi.org/10.1007/978-3-319-93399-3_34" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a> </span><br>
 
 ## <span style="color:Maroon"> Posters </span>
 
