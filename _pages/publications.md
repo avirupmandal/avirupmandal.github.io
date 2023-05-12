@@ -9,9 +9,9 @@ redirect_from:
 
 ## <span style="color:Maroon"> Journal/Conference Papers </span>
 
-**Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation**
-<span style="font-size: 14px"> <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri. 
-<span style="font-size: 14px"><i>Computer Graphics Forum. 2023</i>.</span>
+**Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation**<br>
+<span style="font-size: 14px"> <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br> 
+<span style="font-size: 14px"><i>Computer Graphics Forum. 2023</i>.</span> <br>
 <a href='https://avirupmandal.github.io/fracture-cgf2022/' style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href='../files/CGF_paper_main_2022.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a> &nbsp; <a href='../files/CGF_paper_supplement_2022.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Supplementary]</span></a><br>
 
 **Simulating Fracture in Anisotropic Materials Containing Impurities**\
