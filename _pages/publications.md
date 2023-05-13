@@ -30,7 +30,7 @@ redirect_from:
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP. 2023.</i><br>
 <a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/GRAPP2023_deformation.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a></span> <br>
 
-**Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**. <span style="color:red; font-size:16px"><b>Best Paper Finalist</b></span>.<br>
+**Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime** <span style="color:red; font-size:16px"><b>[Best Paper Finalist]</b></span><br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>\*, Kumar Ayush\*, and Parag Chaudhuri. <br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP. 2021.</i><br>
 <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/IVAPP2021_Black_Hole.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a></span> <br>
@@ -42,7 +42,7 @@ redirect_from:
 
 ## <span style="color:Maroon"> Posters </span>
 
-**Artist Controlled Fracture Design Using Impurity Maps**<span style="color:darkgreen"><sup>**1**</sup></span> <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red; font-size:16px"><b>[SRC Semi-Finalist]</b></span></a>.<br>
+**Artist Controlled Fracture Design Using Impurity Maps**<span style="color:darkgreen"><sup>**1**</sup></span> <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red; font-size:16px"><b>[SRC Semi-Finalist]</b></span></a><br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>SIGGRAPH Posters. 2022.</i><br> 
 <a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a> </span><br>  
