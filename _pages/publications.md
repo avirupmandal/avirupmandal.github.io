@@ -52,7 +52,7 @@ redirect_from:
 <i>SIGGRAPH Posters. 2021.</i><br>
 <a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a></span> <br>
 
-<span style="color:darkgreen; font-size: 16px"> <sup>**1**</sup> <i>Specially selected for Technical Paper Oral Session presentation</i></span>.
+<span style="color:darkgreen; font-size: 16px"> <sup>**1**</sup> <i><b>Specially selected for Technical Paper Oral Session presentation</b></i></span>.
 
 ## <span style="color:Maroon"> Patents </span>
 
