@@ -42,21 +42,21 @@ redirect_from:
 
 ## <span style="color:Maroon"> Posters </span>
 
-**Artist Controlled Fracture Design Using Impurity Maps**<span style="color:red"><sup>**1**</sup></span> <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red; font-size:16px"><b>[SRC Semi-Finalist]</b></span></a>.<br>
+**Artist Controlled Fracture Design Using Impurity Maps**<span style="color:darkgreen"><sup>**1**</sup></span> <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red; font-size:16px"><b>[SRC Semi-Finalist]</b></span></a>.<br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>SIGGRAPH Posters. 2022.</i><br> 
 <a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a> </span><br>  
 
-**Scalable Visual Simulation of Ductile and Brittle Fracture**<span style="color:red"><sup>**1**</sup></span><br>
+**Scalable Visual Simulation of Ductile and Brittle Fracture**<span style="color:darkgreen"><sup>**1**</sup></span><br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>SIGGRAPH Posters. 2021.</i><br>
 <a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a></span> <br>
 
-<span style="color:red; font-size: 16px"> <sup>**1**</sup> <i>Specially selected for Technical Paper Oral Session presentation</i></span>.
+<span style="color:darkgreen; font-size: 16px"> <sup>**1**</sup> <i>Specially selected for Technical Paper Oral Session presentation</i></span>.
 
 ## <span style="color:Maroon"> Patents </span>
 
 **Generic Data Compression for Heart Diagnosis**<br>
-<span style="font-size: 16px"> Tanmoy Kundu, Kaushik Lahiri, <b>Avirup Mandal</b>, Amitava Mukherjee, Mrinal K. Naskar, and Sandipan Sinha. 
+<span style="font-size: 16px"> Tanmoy Kundu, Kaushik Lahiri, <b>Avirup Mandal</b>, Amitava Mukherjee, Mrinal K. Naskar, and Sandipan Sinha.<br> 
 <i>U.S. Patent 9477701 B1 2016.</i><br>
 <a href="https://patentimages.storage.googleapis.com/68/7f/98/07e942c9ae44ee/US9477701.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Patent]</span></a></span>
