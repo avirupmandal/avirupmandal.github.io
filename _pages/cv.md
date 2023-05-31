@@ -19,8 +19,7 @@ Experience
   
 Skills
 ======
-* Programming Languages 
-  * C, C++, Java, Python
+* <b>Programming Languages</b>: C, C++, Java, Python
 * Softwares
   * MATLAB, LATEX, Houdini, MeshLab, Visual Studio, Eclipse 
 * APIs
