@@ -13,7 +13,7 @@ redirect_from:
 * M.Tech. in Electrical Engineering, Indian Institute of Technology Bombay, 2016-2018
 * B.E. in Electronics & Tele-Communication Engineering, Jadavpur University, 2011-2015
 
-Work experience
+Experience
 ======
 * Summer Internship, Indian Statistical Institute Kolkata, 2014
   
