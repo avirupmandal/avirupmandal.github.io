@@ -15,15 +15,15 @@ redirect_from:
 
 Work experience
 ======
-* Summer Internship in Indian Statistical Institute Kolkata, 2014 
-  * Project: Object detection and tracking
-  * Mentor: Professor Kumar Sankar Ray
+* Summer Internship in Indian Statistical Institute Kolkata, 2014
   
 Skills
 ======
-* Languages 
+* Programming Languages 
   * C, C++, Java, Python
 * Softwares
   * MATLAB, LATEX, Houdini, MeshLab, Visual Studio, Eclipse 
 * APIs
-  * OpenGL, CUDA
+  * OpenGL, CUDA, OpenHaptics
+* Web Dev
+  * HTML, CSS
