@@ -16,4 +16,4 @@ Mumbai, Maharashtra, India-400076
 
 Email
 ======
-* mandal [dot] avirup [at] gmail [dot] com
+mandal [dot] avirup [at] gmail [dot] com
