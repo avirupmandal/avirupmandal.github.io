@@ -15,7 +15,7 @@ redirect_from:
 
 Work experience
 ======
-* Summer Internship in Indian Statistical Institute Kolkata, 2014
+* Summer Internship, Indian Statistical Institute Kolkata, 2014
   
 Skills
 ======
