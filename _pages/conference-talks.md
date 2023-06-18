@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /conference-talks
 ---
-**VISIGRAPP (GRAPP) 2023 (Technical Paper Oral Session)**\
-*Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy*. <br>
+- **VISIGRAPP (GRAPP) 2023 (Technical Paper Oral Session)**\
+  *Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy*. <br>
 
-**MIG 2022 (Technical Paper Oral Session)**\
-*Simulating Fracture in Anisotropic Materials Containing Impurities*. <br>
+- **MIG 2022 (Technical Paper Oral Session)**\
+  *Simulating Fracture in Anisotropic Materials Containing Impurities*. <br>
 
 **I3D 2022 (Technical Paper Oral Session)**\
 *Interactive Physics-Based Virtual Sculpting with Haptic Feedback*. <br>
