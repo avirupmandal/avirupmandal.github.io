@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks"
+title: "Conference Talks"
 permalink: /conference-talks/
 author_profile: true
 redirect_from:
