@@ -29,10 +29,10 @@ Experience
 Skills
 ======
 - <b>Programming Languages</b>\
-  C, C++, Java, Python\
+  C, C++, Java, Python
 - <b>Softwares</b>\
-  MATLAB, LATEX, Houdini, MeshLab, Visual Studio, Eclipse\
+  MATLAB, LATEX, Houdini, MeshLab, Visual Studio, Eclipse
 - <b>APIs</b>\
-  OpenGL, CUDA, OpenHaptics\
+  OpenGL, CUDA, OpenHaptics
 - <b>Web Dev</b>\
   HTML, CSS
