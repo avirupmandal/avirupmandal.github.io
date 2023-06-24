@@ -23,7 +23,7 @@ Experience
 ======
 - <b>Indian Statistical Institute Kolkata</b>, May 2014 - July 2014\
   Research Intern\
-  *Mentored by Kumar Sankar Ray* <br>  
+  *Mentored by Professor Kumar Sankar Ray* <br>  
 
   
 Skills
