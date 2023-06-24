@@ -11,7 +11,7 @@ redirect_from:
 
 - <b>Indian Institute of Technology Bombay</b>, 2018-2023 (expected)\
   Ph.D in Electrical Engineering\
-  *Supervisors: Professor Parag Chaudguri & Professor Subhasis Chaudguri*<br>
+  *Supervisors: Professor Parag Chaudhuri & Professor Subhasis Chaudhuri*<br>
 - M.Tech. in Electrical Engineering, Indian Institute of Technology Bombay, 2016-2018
 - B.E. in Electronics & Tele-Communication Engineering, Jadavpur University, 2011-2015
 
