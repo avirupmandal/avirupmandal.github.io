@@ -6,23 +6,30 @@ author_profile: true
 redirect_from:
   - /conference-talks
 ---
-- **VISIGRAPP (GRAPP) 2023 (Technical Paper Oral Session)**\
-  *Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy*. <br>
+- **Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
+  *Technical paper presentation at VISIGRAPP (GRAPP) 2023*\
+  Lison, Portugal<br>
 
-- **MIG 2022 (Technical Paper Oral Session)**\
-  *Simulating Fracture in Anisotropic Materials Containing Impurities*. <br>
+- **Simulating Fracture in Anisotropic Materials Containing Impurities**\
+  *Technical paper presentation at MIG 2022*\
+  Virtual<br>
 
-- **I3D 2022 (Technical Paper Oral Session)**\
-  *Interactive Physics-Based Virtual Sculpting with Haptic Feedback*. <br>
+- **Interactive Physics-Based Virtual Sculpting with Haptic Feedback**\
+  *Technical paper presentation at I3D 2022*\
+  Virtual<br>
 
-- **SIGGRAPH Posters 2022 (Special Invitation in Technical Paper Oral Session)**\
-  *Artist Controlled Fracture Design Using Impurity Maps*. <br> 
+- **Artist Controlled Fracture Design Using Impurity Maps**\
+  *Special invitation for Technical paper presentation at SIGGRAPH 2022*\
+  Vancouver, Canada<br> 
 
-- **SIGGRAPH Posters 2021 (Special Invitation in Technical Paper Oral Session)**\
-  *Scalable Visual Simulation of Ductile and Brittle Fracture*. <br> 
+- **Scalable Visual Simulation of Ductile and Brittle Fracture**\
+  *Special invitation for Technical paper presentation at SIGGRAPH 2021*\
+  Virtual<br> 
 
-- **VISIGRAPP (IVAPP) 2021 (Technical Paper Oral Session)**\
-  *Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime*. <br>
+- **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime**\
+  *Technical paper presentation at VISIGRAPP (IVAPP) 2021*\
+  Virtual<br>
 
-- **EuroHaptics 2018 (Technical Paper Poster Session)**\
-  *Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture*.
+- **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**\
+  *Technical paper presentation at EuroHaptics 2018*\
+  Pisa, Italy
