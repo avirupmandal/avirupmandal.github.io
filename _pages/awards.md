@@ -6,13 +6,15 @@ author_profile: true
 redirect_from:
   - /awards
 ---
-- <b>Qualcomm Innovation Fellowship</b>, Super-Winner, 2022\
+- <b>Qualcomm Innovation Fellowship</b>, 2022\
   Qualcomm Research\
-  Five graduate students across India were each awarded a prize of one million INR <br>
+  Super-Winner\
+  *Five graduate students across India were each awarded a prize of one million INR* <br>
 - ACM Student Research Competition Semi-Finalist, SIGGRAPH, 2022
-- <b>Qualcomm Innovation Fellowship</b>, Winner, 2021\
+- <b>Qualcomm Innovation Fellowship</b>, 2021\
   Qualcomm Research\
-  Thirteen graduate students across India were each awarded a prize of one million INR <br>
+  Winner\
+  *Thirteen graduate students across India were each awarded a prize of one million INR* <br>
 - Best Paper Award Finalist, IVAPP, 2021
 - Best Teaching Assistant Award (awarded twice), IIT Bombay, 2021
 
