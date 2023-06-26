@@ -7,8 +7,12 @@ redirect_from:
   - /awards
 ---
 
-- <b>All India Rank 113 out of 152k candidates in GATE with ECE specialization, 2016
-- State Rank 94 out of 125k candidates in West Bengal Joint Entrance Examination, 2011
+- <b>All India Rank 113 </b>\
+  GATE with ECE specialization, 2016\
+  *A total of 152k candidates appeared in the examination* <br> 
+- <b>State Rank 94</b>\
+  West Bengal Joint Entrance Examination, 2011\
+  *A total of 125k candidates appeared in the examination* <br> 
 
 Awards
 ======
@@ -16,7 +20,7 @@ Awards
 - <b>Qualcomm Innovation Fellowship</b>, 2022\
   Qualcomm Research\
   Super-Winner\
-  *Five graduate students across India were each awarded a prize of one million INR* <br>
+  *Five graduate students across India individually awarded a prize of one million INR* <br>
 - <b>Artist Controlled Fracture Design Using Impurity Maps</b>, 2022\
   SIGGRAPH\
   Vancouver, Canada\
@@ -24,7 +28,7 @@ Awards
 - <b>Qualcomm Innovation Fellowship</b>, 2021\
   Qualcomm Research\
   Winner\
-  *Thirteen graduate students across India were each awarded a prize of one million INR* <br>
+  *Thirteen graduate students across India individually awarded a prize of one million INR* <br>
 - <b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>, 2021\
   IVAPP, 2021\
   Virtual\
