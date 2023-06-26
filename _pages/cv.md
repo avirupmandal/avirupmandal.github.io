@@ -29,12 +29,12 @@ Experience
 Skills
 ======
 - <b>Languages</b>\
-  Bengali (Native), English (Full professional proficiency), Hindi (Limited working proficiency)
+  *Bengali (Native), English (Full professional proficiency), Hindi (Limited working proficiency)*
 - <b>Programming Languages</b>\
-  C, C++, Java, Python
+  *C, C++, Java, Python*
 - <b>Softwares Tools</b>\
-  MATLAB, LATEX, Houdini, MeshLab, Visual Studio, Eclipse
+  *MATLAB, LATEX, Houdini, MeshLab, Visual Studio, Eclipse*
 - <b>APIs</b>\
-  OpenGL, CUDA, OpenHaptics
+  *OpenGL, CUDA, OpenHaptics*
 - <b>Web Dev</b>\
-  HTML, CSS
+  *HTML, CSS*
