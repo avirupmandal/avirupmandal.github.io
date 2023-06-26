@@ -10,13 +10,21 @@ redirect_from:
   Qualcomm Research\
   Super-Winner\
   *Five graduate students across India were each awarded a prize of one million INR* <br>
-- ACM Student Research Competition Semi-Finalist, SIGGRAPH, 2022
+- <b>Artist Controlled Fracture Design Using Impurity Maps</b>, 2022\
+  SIGGRAPH
+  Vancouver, Canada
+  *ACM Student Research Competition Semi-Finalist* <br>
 - <b>Qualcomm Innovation Fellowship</b>, 2021\
   Qualcomm Research\
   Winner\
   *Thirteen graduate students across India were each awarded a prize of one million INR* <br>
-- Best Paper Award Finalist, IVAPP, 2021
-- Best Teaching Assistant Award (awarded twice), IIT Bombay, 2021
+- <b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>, 2021\
+  IVAPP, 2021\
+  Virtual\
+  *Best Paper Award Finalist* <br>
+- Best Teaching Assistant Award, 2021\
+  IIT Bombay\
+  *Awarded Twice*
 
 Achievements
 ======
