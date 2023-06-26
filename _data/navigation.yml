@@ -5,12 +5,12 @@ main:
     
   - title: "Publications"
     url: /publications/
+    
+  - title: "Accolades"
+    url: /awards/
 
   - title: "Talks"
-    url: /conference-talks/    
-
-  - title: "Awards"
-    url: /awards/    
+    url: /conference-talks/        
     
 #  - title: "Portfolio"
 #    url: /portfolio/

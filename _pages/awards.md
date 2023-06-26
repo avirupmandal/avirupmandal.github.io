@@ -1,11 +1,18 @@
 ---
 layout: archive
-title: "Awards"
+title: "Achievements"
 permalink: /awards/
 author_profile: true
 redirect_from:
   - /awards
 ---
+
+- <b>All India Rank 113 out of 152k candidates in GATE with ECE specialization, 2016
+- State Rank 94 out of 125k candidates in West Bengal Joint Entrance Examination, 2011
+
+Awards
+======
+
 - <b>Qualcomm Innovation Fellowship</b>, 2022\
   Qualcomm Research\
   Super-Winner\
@@ -25,10 +32,3 @@ redirect_from:
 - Best Teaching Assistant Award, 2021\
   IIT Bombay\
   *Awarded Twice*
-
-Achievements
-======
-
-- All India Rank 113 out of 152k candidates in GATE with ECE specialization, 2016
-- State Rank 94 out of 125k candidates in West Bengal Joint Entrance Examination, 2011
-
