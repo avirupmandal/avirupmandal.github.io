@@ -30,7 +30,7 @@ Skills
 ======
 - <b>Programming Languages</b>\
   C, C++, Java, Python
-- <b>Softwares</b>\
+- <b>Softwares Tools</b>\
   MATLAB, LATEX, Houdini, MeshLab, Visual Studio, Eclipse
 - <b>APIs</b>\
   OpenGL, CUDA, OpenHaptics
