@@ -11,8 +11,8 @@ redirect_from:
   Super-Winner\
   *Five graduate students across India were each awarded a prize of one million INR* <br>
 - <b>Artist Controlled Fracture Design Using Impurity Maps</b>, 2022\
-  SIGGRAPH
-  Vancouver, Canada
+  SIGGRAPH\
+  Vancouver, Canada\
   *ACM Student Research Competition Semi-Finalist* <br>
 - <b>Qualcomm Innovation Fellowship</b>, 2021\
   Qualcomm Research\
