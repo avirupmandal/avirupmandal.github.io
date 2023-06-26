@@ -28,6 +28,8 @@ Experience
   
 Skills
 ======
+- <b>Languages</b>\
+  Bengali (Native), English (Full professional proficiency), Hindi (Limited working proficiency)
 - <b>Programming Languages</b>\
   C, C++, Java, Python
 - <b>Softwares Tools</b>\
