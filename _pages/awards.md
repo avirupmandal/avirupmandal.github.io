@@ -33,6 +33,6 @@ Awards
   IVAPP, 2021\
   Virtual\
   *Best Paper Award Finalist* <br>
-- Best Teaching Assistant Award, 2021\
+- <b>Best Teaching Assistant Award</b>, 2021\
   IIT Bombay\
   *Awarded Twice*
