@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- <b>Indian Institute of Technology Bombay</b>, 2018-2023 (expected)\
+- <b>Indian Institute of Technology Bombay</b>, 2018-2023\
   Ph.D in Electrical Engineering\
   *Supervisors: Professor Parag Chaudhuri & Professor Subhasis Chaudhuri*<br>
 - <b>Indian Institute of Technology Bombay</b>, 2016-2018\
