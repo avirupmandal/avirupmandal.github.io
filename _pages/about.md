@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my MTech+PhD dual degree in Communication Engineering from the Department of <a href="https://www.ee.iitb.ac.in/web" style="text-decoration:none"><span style="color:RoyalBlue">Electrical Engineering</span></a> 
-of <a href="https://www.iitb.ac.in/" style="text-decoration:none"><span style="color:RoyalBlue">Indian Institute of Technology Bombay</span></a>. I am advised by 
+I completed my MTech+PhD dual degree in Communication Engineering from the Department of <a href="https://www.ee.iitb.ac.in/web" style="text-decoration:none"><span style="color:RoyalBlue">Electrical Engineering</span></a> 
+of <a href="https://www.iitb.ac.in/" style="text-decoration:none"><span style="color:RoyalBlue">Indian Institute of Technology Bombay</span></a> in 2023. I was advised by 
 <a href="https://www.cse.iitb.ac.in/~paragc/" style="text-decoration:none"><span style="color:RoyalBlue"> Prof. Parag Chaudhuri</span></a> and <a href="https://www.ee.iitb.ac.in/~sc/" style="text-decoration:none"><span style="color:RoyalBlue">Prof. Subhasis Chaudhuri</span></a>. 
 Earlier, I completed my B.E. in <a href="http://www.jaduniv.edu.in/view_department.php?deptid=84" style="text-decoration:none"><span style="color:RoyalBlue">Electronics & Telecommunication Engineering</span></a> from 
 <a href="http://www.jaduniv.edu.in/" style="text-decoration:none"><span style="color:RoyalBlue">Jadavpur University</span></a>, Kolkata in 2015. 
