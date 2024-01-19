@@ -19,7 +19,7 @@ Awards
 - <b>Thesis Presenation at SIGGRAPH Asia Doctoral Consortium</b>, 2023\
   SIGGRAPH Asia\
   Doctoral Consortium\
-  *Ten graduate students across world are selected to present their thesis works* <br>
+  *Ten graduate students across world are selected to present their doctoral works* <br>
 - <b>Qualcomm Innovation Fellowship</b>, 2022\
   Qualcomm Research\
   Super-Winner\
