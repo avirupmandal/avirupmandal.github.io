@@ -1,21 +1,12 @@
 ---
 layout: archive
-title: "Achievements"
+title: "Awards"
 permalink: /awards/
 author_profile: true
 redirect_from:
   - /awards
 ---
 
-- <b>All India Rank 113 </b>\
-  GATE with ECE specialization, 2016\
-  *A total of 152k candidates appeared in the examination* <br> 
-- <b>State Rank 94</b>\
-  West Bengal Joint Entrance Examination, 2011\
-  *A total of 125k candidates appeared in the examination* <br> 
-
-Awards
-======
 - <b>Thesis Presenation at SIGGRAPH Asia Doctoral Consortium</b>, 2023\
   SIGGRAPH Asia\
   Doctoral Consortium\
@@ -38,4 +29,13 @@ Awards
   *Best Paper Award Finalist* <br>
 - <b>Best Teaching Assistant Award</b>, 2020 & 2021\
   IIT Bombay\
-  *Awarded Twice*
+  *Awarded Twice* 
+
+Achievements
+======
+- <b>All India Rank 113 </b>\
+  GATE with ECE specialization, 2016\
+  *A total of 152k candidates appeared in the examination* <br> 
+- <b>State Rank 94</b>\
+  West Bengal Joint Entrance Examination, 2011\
+  *A total of 125k candidates appeared in the examination* <br>
