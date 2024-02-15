@@ -16,7 +16,7 @@ Earlier, I completed my B.E. in <a href="http://www.jaduniv.edu.in/view_departme
 My research interests include physics-based animation, fracture dynamics, haptics, high performance computing and machine learning.
 
 I am a winner and super winner of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship" style="text-decoration:none"><span style="color:RoyalBlue">Qualcomm Innovation Fellowship</span></a> from India in 2021 and 2022 respectively.
-Additionally, my PhD thesis was selected for a short oration for the Doctoral Consortium at SIGGRAPH Asia 2023.
+Additionally, my PhD thesis was selected for a short oration for the Doctoral Consortium at <a href="https://asia.siggraph.org/2023/" style="text-decoration:none"><span style="color:RoyalBlue">SIGGRAPH Asia 2023</span></a>.
 
 **Academic Materials:** <a href='../files/Resume_Avirup.pdf' style="text-decoration:none"> <span style="color:RoyalBlue">[Curriculum Vitae]</span> </a> &nbsp; 
 <!--- <a href='../files/Research_Statement_Avirup.pdf' style="text-decoration:none"> <span style="color:RoyalBlue">[Research Statement]</span> </a> -->
