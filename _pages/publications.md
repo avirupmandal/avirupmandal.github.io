@@ -10,7 +10,7 @@ redirect_from:
 <!--- ## <span style="color:Maroon"> Journal/Conference Papers </span> -->
 
 **Fast Remeshing-Free Methods for Complex Cutting and Fracture Simulation**<br>
-<span style="font-size: 16px"> <b>Avirup Mandal</b><br> 
+<span style="font-size: 16px">Avirup Mandal<br> 
 <i>SIGGRAPH Asia Doctoral Consortium. 2023.</i><br>
 <a href="https://doi.org/10.1145/3623053.3623366" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a> </span><br>
 
