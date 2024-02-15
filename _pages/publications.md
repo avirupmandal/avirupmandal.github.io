@@ -30,9 +30,9 @@ redirect_from:
 <i>Journal version appeared in Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACMCGIT).</i><br>
 <a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/I3D2022_Virtual_sculpting_PACM_Author.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a></span> <br>
 
-**Artist Controlled Fracture Design Using Impurity Maps**<span style="color:darkgreen"><sup>**1**</sup></span> <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red; font-size:16px">[SRC Semi-Finalist]</span></a><br>
+**Artist Controlled Fracture Design Using Impurity Maps** <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red; font-size:16px">[SRC Semi-Finalist]</span></a><br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
-<i>SIGGRAPH Posters. 2022.</i><br> 
+<i>SIGGRAPH Posters. 2022.</i><span style="color:darkgreen; font-size: 16px"> <b>Specially selected for Technical Paper Oral Session presentation</b></span><br><br> 
 <a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a> </span><br>  
 
 <!--- <span style="color:darkgreen; font-size: 16px"> <sup>**1**</sup> <i><b>Specially selected for Technical Paper Oral Session presentation</b></i></span>. -->
@@ -42,9 +42,9 @@ redirect_from:
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP. 2021.</i><br>
 <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/IVAPP2021_Black_Hole.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a></span> <br>
 
-**Scalable Visual Simulation of Ductile and Brittle Fracture**<span style="color:darkgreen"><sup>**1**</sup></span><br>
+**Scalable Visual Simulation of Ductile and Brittle Fracture**<br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
-<i>SIGGRAPH Posters. 2021.</i><br>
+<i>SIGGRAPH Posters. 2021.</i> <span style="color:darkgreen; font-size: 16px"> <b>Specially selected for Technical Paper Oral Session presentation</b></span>.<br>
 <a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a></span> <br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**<br>
