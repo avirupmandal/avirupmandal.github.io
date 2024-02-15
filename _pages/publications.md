@@ -32,7 +32,7 @@ redirect_from:
 
 **Artist Controlled Fracture Design Using Impurity Maps** <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red; font-size:16px">[SRC Semi-Finalist]</span></a><br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
-<i>SIGGRAPH Posters. 2022.</i><span style="color:darkgreen; font-size: 16px"> <b>Specially selected for Technical Paper Oral Session presentation</b></span><br><br> 
+<i>SIGGRAPH Posters. 2022.</i><span style="color:darkgreen; font-size: 16px"> <i>(Specially selected for Technical Paper Oral Session presentation)</i></span>.<br> 
 <a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a> </span><br>  
 
 <!--- <span style="color:darkgreen; font-size: 16px"> <sup>**1**</sup> <i><b>Specially selected for Technical Paper Oral Session presentation</b></i></span>. -->
@@ -44,7 +44,7 @@ redirect_from:
 
 **Scalable Visual Simulation of Ductile and Brittle Fracture**<br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
-<i>SIGGRAPH Posters. 2021.</i> <span style="color:darkgreen; font-size: 16px"> <b>Specially selected for Technical Paper Oral Session presentation</b></span>.<br>
+<i>SIGGRAPH Posters. 2021.</i> <span style="color:darkgreen; font-size: 16px"> <i>Specially selected for Technical Paper Oral Session presentation</i></span>.<br>
 <a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a></span> <br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**<br>
