@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and Patents"
+title: "Selected Publications and Patents"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 <!--- ## <span style="color:Maroon"> Journal/Conference Papers </span> -->
+
+**Fast Remeshing-Free Methods for Complex Cutting and Fracture Simulation**<br>
+<span style="font-size: 16px"> <b>Avirup Mandal</b><br> 
+<i>SIGGRAPH Asia Doctoral Consortium. 2023.</i> <br>
 
 **Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation**<br>
 <span style="font-size: 16px"> <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br> 
@@ -44,7 +48,7 @@ redirect_from:
 
 **Scalable Visual Simulation of Ductile and Brittle Fracture**<br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
-<i>SIGGRAPH Posters. 2021.</i> <span style="color:darkgreen; font-size: 16px"> <i>Specially selected for Technical Paper Oral Session presentation</i></span>.<br>
+<i>SIGGRAPH Posters. 2021.</i> <span style="color:darkgreen; font-size: 16px"> <i>(Specially selected for Technical Paper Oral Session presentation)</i></span>.<br>
 <a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none"><span style="color:RoyalBlue">[Abstract]</span></a> &nbsp; <a href='../files/SIGGRAPH2021_Poster.pdf' style="text-decoration:none"><span style="color:RoyalBlue">[Poster]</span></a> &nbsp; <a href='../videos/poster_sig_21.mp4' style="text-decoration:none"><span style="color:RoyalBlue">[Video]</span></a></span> <br>
 
 **Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture**<br>
