@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "Conference Talks"
+title: "Talks"
 permalink: /conference-talks/
 author_profile: true
 redirect_from:
   - /conference-talks
 ---
+- **Fast Remeshing-Free Methods for Complex Cutting and Fracture Simulation**\
+  *Doctoral Consortium presentation at SIGGRAPH Asia 2023*\
+  Sydney, Australia<br>
+
 - **Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy**\
   *Technical paper presentation at VISIGRAPP (GRAPP) 2023*\
   Lison, Portugal<br>
