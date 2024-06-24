@@ -13,7 +13,7 @@ of <a href="https://www.iitb.ac.in/" style="text-decoration:none"><span style="c
 <a href="https://www.cse.iitb.ac.in/~paragc/" style="text-decoration:none"><span style="color:RoyalBlue"> Prof. Parag Chaudhuri</span></a> and <a href="https://www.ee.iitb.ac.in/~sc/" style="text-decoration:none"><span style="color:RoyalBlue">Prof. Subhasis Chaudhuri</span></a>. 
 Earlier, I completed my B.E. in <a href="http://www.jaduniv.edu.in/view_department.php?deptid=84" style="text-decoration:none"><span style="color:RoyalBlue">Electronics & Telecommunication Engineering</span></a> from 
 <a href="http://www.jaduniv.edu.in/" style="text-decoration:none"><span style="color:RoyalBlue">Jadavpur University</span></a>, Kolkata in 2015. 
-My research interests include physics-based animation, fracture dynamics, haptics, high performance computing and machine learning. 
+My research interests include computer graphics, physics-based simulation, geometry processing, AR/VR/XR, haptics, view synthesis and machine learning. 
 
 I am a winner and super winner of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship" style="text-decoration:none"><span style="color:RoyalBlue">Qualcomm Innovation Fellowship</span></a> from India in 2021 and 2022 respectively.
 Additionally, my PhD thesis was selected for a short oration for the Doctoral Consortium at <a href="https://asia.siggraph.org/2023/" style="text-decoration:none"><span style="color:RoyalBlue">SIGGRAPH Asia 2023</span></a>.
