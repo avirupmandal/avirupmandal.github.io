@@ -1,192 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="
-            http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
-
-  <url>
-       <loc>https://avirupmandal.github.io/</loc>
-       <lastmod>2022-12-26T06:31:21+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/feed.xml</loc>
-       <lastmod>2022-12-26T06:31:21+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/cv/</loc>
-       <lastmod>2022-12-26T06:31:21+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/publications/</loc>
-       <lastmod>2022-12-26T06:31:21+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/conference-talks/</loc>
-       <lastmod>2022-12-26T06:31:21+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/contact/</loc>
-       <lastmod>2022-12-26T06:31:21+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/hobbies/</loc>
-       <lastmod>2022-12-26T06:31:21+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/fracture-cgf2022/</loc>
-       <lastmod>2022-12-26T06:38:24+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/randomgraph-mig22/</loc>
-       <lastmod>2022-12-26T06:20:32+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/sculpt-i3d/</loc>
-       <lastmod>2022-12-26T06:27:18+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/sculpt-arxiv/</loc>
-       <lastmod>2022-12-26T06:26:40+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/blackhole-ivapp/</loc>
-       <lastmod>2022-12-26T06:24:41+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/files/SIGGRAPH2022_SRC_Avirup%20Mandal.pdf</loc>
-       <lastmod>2022-12-26T06:31:11+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/files/SIGGRAPH2022_Poster.pdf</loc>
-       <lastmod>2022-12-26T06:31:11+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/files/SIGGRAPH2021_Poster.pdf</loc>
-       <lastmod>2022-12-26T06:31:11+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/general-books/</loc>
-       <lastmod>2022-12-19T10:35:14+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/technical-books/</loc>
-       <lastmod>2022-12-19T09:44:26+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/fracture-cgf2022/resources/CGF_paper_main_2022.pdf</loc>
-       <lastmod>2022-12-26T06:38:25+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/fracture-cgf2022/resources/CGF_paper_supplement_2022.pdf</loc>
-       <lastmod>2022-12-26T06:38:25+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/fracture-cgf2022/resources/paper_bibtex.txt</loc>
-       <lastmod>2022-12-26T06:38:25+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/randomgraph-mig22/resources/MIG2022_Random_Graph_Author_Copy.pdf</loc>
-       <lastmod>2022-12-26T06:20:32+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/randomgraph-mig22/resources/MIG2022_Random_Graph_Author_Copy_supplementary.pdf</loc>
-       <lastmod>2022-12-26T06:20:33+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/randomgraph-mig22/resources/paper_bibtex.txt</loc>
-       <lastmod>2022-12-26T06:20:33+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/sculpt-i3d/resources/I3D2022_Virtual_sculpting_PACM_Author.pdf</loc>
-       <lastmod>2022-12-26T06:27:18+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/sculpt-i3d/resources/paper_bibtex.txt</loc>
-       <lastmod>2022-12-26T06:27:18+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/sculpt-arxiv/resources/Virtual_sculpting_Arxiv.pdf</loc>
-       <lastmod>2022-12-26T06:26:40+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/sculpt-arxiv/resources/paper_bibtex.txt</loc>
-       <lastmod>2022-12-26T06:26:40+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/blackhole-ivapp/resources/IVAPP2021_Black_Hole.pdf</loc>
-       <lastmod>2022-12-26T06:24:41+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/blackhole-ivapp/resources/IVAPP2021_Black_Hole_Slides.pdf</loc>
-       <lastmod>2022-12-26T06:24:41+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://avirupmandal.github.io/blackhole-ivapp/resources/paper_bibtex.txt</loc>
-       <lastmod>2022-12-26T06:24:41+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+<loc>https://avirupmandal.github.io/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/cv/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/publications/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/awards/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/conference-talks/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/contact/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/hobbies/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/fracture-cgf2022/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/CGF_paper_main_2022.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/CGF_paper_supplement_2022.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/sculpt-arxiv/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/GRAPP2023_deformation.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/randomgraph-mig22/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/MIG2022_Random_Graph_Author_Copy.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/MIG2022_Random_Graph_Author_Copy_supplementary.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/sculpt-i3d/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/I3D2022_Virtual_sculpting_PACM_Author.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/SIGGRAPH2022_Poster.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../videos/poster_sig_22.mp4</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/IVAPP_2021_Best_Paper_Award.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/blackhole-ivapp/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/IVAPP2021_Black_Hole.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../files/SIGGRAPH2021_Poster.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/../videos/poster_sig_21.mp4</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/general-books/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/technical-books/</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/CGF_paper_main_2022.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/CGF_paper_supplement_2022.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/paper_bibtex.txt</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/Virtual_sculpting_Arxiv.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/MIG2022_Random_Graph_Author_Copy.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/MIG2022_Random_Graph_Author_Copy_supplementary.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/mig_2022_presentation.pptx</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/I3D2022_Virtual_sculpting_PACM_Author.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/I3D2022_presentation_IITB_Final.pptx</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/IVAPP2021_Black_Hole.pdf</loc>
+</url>
+<url>
+<loc>https://avirupmandal.github.io/./resources/IVAPP2021_Black_Hole_Slides.pdf</loc>
+</url>
 </urlset>
