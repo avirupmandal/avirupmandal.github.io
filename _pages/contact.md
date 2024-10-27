@@ -16,4 +16,5 @@ Mumbai, Maharashtra, India-400076
 
 Email
 ======
+avirupmandal [at] iitpkd [dot] ac [dot] in\
 mandal [dot] avirup [at] gmail [dot] com
