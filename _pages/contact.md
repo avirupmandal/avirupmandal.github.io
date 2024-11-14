@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Vision and Image Processing Lab (EE 112),\
-Department of Electrical Engineering,\
-Indian Institute of Technology Bombay,\
-Mumbai, Maharashtra, India-400076
+First Floor, D03 Block, Dr. APJ Abdul Kalam Block\
+Department of Computer Science and Engineering,\
+Indian Institute of Technology Palakkad,\
+Kanjikode, Palakkad, Kerala, India-678623
 
 Email
 ======
