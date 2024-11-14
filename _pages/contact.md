@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-First Floor, D03 Block, Dr. APJ Abdul Kalam Block\
+First Floor, D03 Block, Dr. APJ Abdul Kalam Block,\
 Department of Computer Science and Engineering,\
 Indian Institute of Technology Palakkad,\
 Kanjikode, Palakkad, Kerala, India-678623
