@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 <!--- ## <span style="color:Maroon"> Journal/Conference Papers </span> -->
+**Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications**<br>
+<span style="font-size: 16px"> <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
+<i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP. 2025. (To Appear)</i><br>
+<!---<a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/GRAPP2023_deformation.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a></span> <br>
+--->
 
 **Fast Remeshing-Free Methods for Complex Cutting and Fracture Simulation**<br>
 <span style="font-size: 16px">Avirup Mandal<br> 
