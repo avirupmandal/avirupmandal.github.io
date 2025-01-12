@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+- <b>Indian Institute of Technology Palakkad</b>, July 2024 - Present\
+  Assistant Professor, Department of CSE <br>
+
+- <b>Indian Statistical Institute Kolkata</b>, May 2014 - July 2014\
+  Research Intern\
+  *Mentor: Professor Kumar Sankar Ray* <br>  
+
+
+Education
+====== 
 - <b>Indian Institute of Technology Bombay</b>, 2018-2023\
   Ph.D in Electrical Engineering\
   *Supervisors: Professor Subhasis Chaudhuri & Professor Parag Chaudhuri*<br>
@@ -18,12 +28,6 @@ redirect_from:
 - <b>Jadavpur University</b>, 2011-2015\
   B.E. in Electronics & Tele-Communication Engineering\
   *Supervisor: Professor Subir Kumar Sarkar*<br>
-
-Experience
-======
-- <b>Indian Statistical Institute Kolkata</b>, May 2014 - July 2014\
-  Research Intern\
-  *Mentor: Professor Kumar Sankar Ray* <br>  
 
   
 Skills
