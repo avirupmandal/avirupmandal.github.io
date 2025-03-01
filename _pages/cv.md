@@ -11,6 +11,10 @@ redirect_from:
 
 - <b>Indian Institute of Technology Palakkad</b>, July 2024 - Present\
   Assistant Professor, Department of CSE <br>
+  
+- <b>Indian Institute of Technology Bombay</b>, 2023-2024\
+  Postdoctoral Researcher\
+  *Host: Professor Subhasis Chaudhuri*<br>
 
 - <b>Indian Statistical Institute Kolkata</b>, May 2014 - July 2014\
   Research Intern\
