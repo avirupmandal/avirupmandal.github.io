@@ -7,8 +7,8 @@ redirect_from:
   - /conference-talks
 ---
 - **AI for Haptics**\
-  *Invited talk Sardar Patel Institute of Technology*\
-  Mumbai, India<br>
+  *Invited talk at Sardar Patel Institute of Technology*\
+  On April 28, 2025, Mumbai, India<br>
 
 - **Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications**\
   *Technical paper presentation at VISIGRAPP (GRAPP) 2025*\
