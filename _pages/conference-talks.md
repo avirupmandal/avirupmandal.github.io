@@ -6,6 +6,14 @@ author_profile: true
 redirect_from:
   - /conference-talks
 ---
+- **AI for Haptics**\
+  *Invited talk Sardar Patel Institute of Technology*\
+  Mumbai, India<br>
+
+- **Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications**\
+  *Technical paper presentation at VISIGRAPP (GRAPP) 2025*\
+  Porto, Portugal<br>
+
 - **Fast Remeshing-Free Methods for Complex Cutting and Fracture Simulation**\
   *Doctoral Consortium presentation at SIGGRAPH Asia 2023*\
   Sydney, Australia<br>
