@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /awards
 ---
-- <b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>, 2021\
-  GRAPP, 2025\
+- <b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>, 2025\
+  GRAPP\
   Porto, Portugal\
   *Best Paper Award Finalist* <br>
 - <b>Thesis Presenation at SIGGRAPH Asia Doctoral Consortium</b>, 2023\
