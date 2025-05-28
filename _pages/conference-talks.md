@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /conference-talks
 ---
+- **A Very Gentle Intro to Raytracing**\
+  *Science Quest talk at Indian Institute of Technology Palakkad*\
+  On May 24, 2025, Mumbai, India<br>
+  
 - **AI for Haptics**\
   *Invited talk at Sardar Patel Institute of Technology*\
   On April 28, 2025, Mumbai, India<br>
