@@ -19,7 +19,9 @@ My research interests include  Computer Graphics, Geometry Processing, Neural Ph
 I am a winner and super winner of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship" style="text-decoration:none"><span style="color:RoyalBlue">Qualcomm Innovation Fellowship</span></a> from India in 2021 and 2022 respectively.
 Additionally, my PhD thesis was selected for a short oration for the Doctoral Consortium at <a href="https://asia.siggraph.org/2023/" style="text-decoration:none"><span style="color:RoyalBlue">SIGGRAPH Asia 2023</span></a>.
 
+<!---
 <span style="color:Red">Note</span>: I am not currently offering any short-term project or internships for non-IIT Palakkad students. 
+-->
 
 <!--- **Academic Materials:** <a href='../files/Resume_Avirup.pdf' style="text-decoration:none"> <span style="color:RoyalBlue">[Curriculum Vitae]</span> </a> &nbsp; 
 <a href='../files/Research_Statement_Avirup.pdf' style="text-decoration:none"> <span style="color:RoyalBlue">[Research Statement]</span> </a> -->
