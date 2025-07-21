@@ -50,4 +50,4 @@ redirect_from:
   *Technical paper presentation at EuroHaptics 2018*\
   Pisa, Italy
 
-<> Reviewer: NCC 2025, SN Computer Science, 
+<!-- Reviewer: NCC 2025, SN Computer Science, ICVGIP 2025 -->
