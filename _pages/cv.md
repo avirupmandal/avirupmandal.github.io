@@ -24,10 +24,10 @@ redirect_from:
 Education
 ====== 
 - <b>Indian Institute of Technology Bombay</b>, 2018-2023\
-  Ph.D in Electrical Engineering\
+  Ph.D in Computer Graphics & Geometry Processing, EE\
   *Supervisors: Professor Subhasis Chaudhuri & Professor Parag Chaudhuri*<br>
 - <b>Indian Institute of Technology Bombay</b>, 2016-2018\
-  M.Tech. in Electrical Engineering\
+  M.Tech. in Communication & Signal Processing, EE\
   *Supervisor: Professor Subhasis Chaudhuri*<br>
 - <b>Jadavpur University</b>, 2011-2015\
   B.E. in Electronics & Tele-Communication Engineering\
