@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /awards
 ---
+- <b>Naik and Rastogi Award for Excellence in Ph.D. Research</b>, 2025\
+  IIT Bombay\
+  Winner\
+  *Four graduate students from EE department, IIT Bombay are selected for the award in 2025* <br>
 - <b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>, 2025\
   GRAPP\
   Porto, Portugal\
