@@ -5,15 +5,15 @@ main:
     
   - title: "Publications"
     url: /publications/
+
+  - title: "Students"
+    url: /students/
     
   - title: "Accolades"
     url: /awards/
 
   - title: "Talks"
     url: /conference-talks/        
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
         
   - title: "Contact"
     url: /contact/
