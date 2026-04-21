@@ -46,3 +46,12 @@ Skills
   *OpenGL, CUDA, OpenHaptics*
 - <b>Web Dev</b>\
   *HTML, CSS*
+
+Position of Responsibility
+======
+- Best Teacher Award Committee, 2025
+- IAC 7.0 Department Coordinator from CSE, 2024
+- BTP Coordinator at CSE, July 2025-Dec 2026
+- Research Scholar Day Department Coordinator from CSE, 2024-2025
+- Institute Day Department Coordinator from CSE, 2024
+- Department Coordinator for various Technical Writing courses
