@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /conference-talks
 ---
+- **Position-based Dynamics: How to Simulate Real-World Phenomena using Simple Differential Equations**\
+  *Higher Secondary School Teacher Transformation Programme (Govt. of Kerala) talk at Indian Institute of Technology Palakkad*\
+  On December 22, 2025, Palakkad, India<br>
+
 - **A Very Gentle Intro to Raytracing**\
   *Science Quest talk at Indian Institute of Technology Palakkad*\
   On May 24, 2025, Palakkad, India<br>
