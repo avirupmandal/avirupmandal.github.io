@@ -47,6 +47,7 @@ Skills
 - <b>Web Dev</b>\
   *HTML, CSS*
 
+<!---
 Position of Responsibility
 ======
 - Best Teacher Award Committee, 2025
@@ -55,3 +56,4 @@ Position of Responsibility
 - Research Scholar Day Department Coordinator from CSE, 2024-2025
 - Institute Day Department Coordinator from CSE, 2024
 - Department Coordinator for various Technical Writing courses
+--->
