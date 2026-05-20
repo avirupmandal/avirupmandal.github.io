@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 <!--- ## <span style="color:Maroon"> Journal/Conference Papers </span> -->
+**High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**<br>
+Nandhana Sunil, Abhirami R Iyer and <span style="font-size: 16px"> <b>Avirup Mandal</b>.<br>
+<a href="https://doi.org/10.48550/arXiv.2605.07254" style="text-decoration:none"><span style="color:RoyalBlue">[Preprint]</span></a> </span><br>
+
 **Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications** <a href='../files/GRAPP_2025_Best_Paper_Award.pdf' style="text-decoration:none"><span style="color:red; font-size:16px">[Best Paper Finalist]</span></a><br>
 <span style="font-size: 16px"> <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP. 2025.</i><br>
