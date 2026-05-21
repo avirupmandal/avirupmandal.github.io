@@ -9,7 +9,7 @@ redirect_from:
 
 <!--- ## <span style="color:Maroon"> Journal/Conference Papers </span> -->
 **High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**<br>
-Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup Mandal</b>.<i>(\* Joint first authors)</i><br>
+Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup Mandal</b>. <i> (\*Joint first authors)</i>.<br>
 <a href="https://doi.org/10.48550/arXiv.2605.07254" style="text-decoration:none"><span style="color:RoyalBlue">[Preprint]</span></a> </span><br>
 
 **Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications** <a href='../files/GRAPP_2025_Best_Paper_Award.pdf' style="text-decoration:none"><span style="color:red; font-size:16px">[Best Paper Finalist]</span></a><br>
@@ -51,7 +51,7 @@ Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup
 <!--- <span style="color:darkgreen; font-size: 16px"> <sup>**1**</sup> <i><b>Specially selected for Technical Paper Oral Session presentation</b></i></span>. -->
 
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime** <a href='../files/IVAPP_2021_Best_Paper_Award.pdf' style="text-decoration:none"><span style="color:red; font-size:16px">[Best Paper Finalist]</span></a><br>
-<span style="font-size: 16px"><b>Avirup Mandal</b>\*, Kumar Ayush\*, and Parag Chaudhuri. <i>(\* Joint first authors)</i>.<br>
+<span style="font-size: 16px"><b>Avirup Mandal</b>\*, Kumar Ayush\*, and Parag Chaudhuri. <i> (\*Joint first authors)</i>.<br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP. 2021.</i><br>
 <a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none"><span style="color:RoyalBlue">[Project Page]</span></a> &nbsp; <a href="../files/IVAPP2021_Black_Hole.pdf" style="text-decoration:none"><span style="color:RoyalBlue">[Paper]</span></a></span> <br>
 
