@@ -15,9 +15,8 @@ Kanjikode, Palakkad, Kerala, India-678623
 
 Email
 ======
-avirupmandal [at] iitpkd [dot] ac [dot] in\
-<!--- 
-mandal [dot] avirup [at] gmail [dot] com 
+avirupmandal [at] iitpkd [dot] ac [dot] in\ 
+# mandal [dot] avirup [at] gmail [dot] com 
 
 Phone
 ======
