@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 I like reading novels, short stories and popular science books in my spare time. Some of the books that I have read can be found <a href="https://avirupmandal.github.io/general-books/" style="text-decoration:none"><span style="color:RoyalBlue">here</span></a>.
-I take a keen interest in astrophysics particularly in Special and General Relativity. You can call me a self-taught amateur astrophysicist. 
+I have a keen interest in astrophysics and geometry, particularly the concepts of spacetime, Special and General Relativity, and the geometry of curved spaces. 
 
 <!---
 Some of the books related to astrophysics, geometry and similar subjects that I have read (may not fully comprehend though :D) are listed <a href="https://avirupmandal.github.io/technical-books/" style="text-decoration:none"><span style="color:RoyalBlue">here</span></a>.
