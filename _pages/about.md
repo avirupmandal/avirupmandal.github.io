@@ -8,6 +8,72 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* Default link style */
+a {
+    color: inherit;          /* Use the surrounding text color */
+    text-decoration: none;   /* Remove underline */
+    transition: color 0.2s ease;
+}
+
+/* Keep visited links the same color */
+a:visited {
+    color: inherit;
+}
+
+/* Change color only on hover */
+a:hover,
+a:focus {
+    color: RoyalBlue;
+}
+
+/* Optional: color while clicking */
+a:active {
+    color: RoyalBlue;
+}
+</style>
+
+<p>
+I am an Assistant Professor in the Department of
+<a href="https://cse.iitpkd.ac.in/">Computer Science and Engineering</a>
+at
+<a href="https://iitpkd.ac.in/">IIT Palakkad</a>.
+
+I earned my M.Tech.+Ph.D. dual degree from the Department of
+<a href="https://www.ee.iitb.ac.in/web">Electrical Engineering</a>
+at
+<a href="https://www.iitb.ac.in/">IIT Bombay</a>
+in 2023, under the supervision of
+<a href="https://www.cse.iitb.ac.in/~paragc/">Prof. Parag Chaudhuri</a>
+and
+<a href="https://www.ee.iitb.ac.in/~sc/">Prof. Subhasis Chaudhuri</a>.
+
+Previously, I completed my B.E. in
+<a href="http://www.jaduniv.edu.in/view_department.php?deptid=84">
+Electronics & Tele-communication Engineering</a>
+from
+<a href="http://www.jaduniv.edu.in/">Jadavpur University</a>.
+</p>
+
+<p>
+My research interests span
+<em><b>Computer Graphics, Geometry Processing, View Synthesis, Neural Physics,</b></em>
+and
+<em><b>Haptics</b></em>.
+I received the
+<a href="https://acad.iitb.ac.in/thesis-awards-2025">
+Naik and Rastogi Award for Excellence in Ph.D. Research</a>
+from IIT Bombay.
+I am a winner (2021) and super winner (2022) of the
+<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship">
+Qualcomm Innovation Fellowship</a>
+from India.
+Additionally, my Ph.D. thesis was selected for a short oration at the Doctoral Consortium of
+<a href="https://asia.siggraph.org/2023/">
+SIGGRAPH Asia 2023</a>.
+</p>
+
+<!---
 I am an Assistant Professor in the Department of <a href="https://cse.iitpkd.ac.in/" style="text-decoration:none"><span style="color:RoyalBlue">Computer Science and Engineering</span></a> at <a href="https://iitpkd.ac.in/" style="text-decoration:none"><span style="color:RoyalBlue">IIT Palakkad</span></a>.
 I earned my M.Tech.+Ph.D. dual degree from the Department of <a href="https://www.ee.iitb.ac.in/web" style="text-decoration:none"><span style="color:RoyalBlue">Electrical Engineering</span></a> at <a href="https://www.iitb.ac.in/" style="text-decoration:none"><span style="color:RoyalBlue">IIT Bombay</span></a> in 2023, under the supervision of <a href="https://www.cse.iitb.ac.in/~paragc/" style="text-decoration:none"><span style="color:RoyalBlue">Prof. Parag Chaudhuri</span></a> and <a href="https://www.ee.iitb.ac.in/~sc/" style="text-decoration:none"><span style="color:RoyalBlue">Prof. Subhasis Chaudhuri</span></a>.
 Previously, I completed my B.E. in <a href="http://www.jaduniv.edu.in/view_department.php?deptid=84" style="text-decoration:none"><span style="color:RoyalBlue">Electronics & Tele-communication Engineering</span></a> from <a href="http://www.jaduniv.edu.in/" style="text-decoration:none"><span style="color:RoyalBlue">Jadavpur University</span></a>.
