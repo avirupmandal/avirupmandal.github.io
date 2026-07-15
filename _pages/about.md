@@ -25,11 +25,13 @@ a:visited {
 a:hover,
 a:focus {
     color: RoyalBlue;
+    text-decoration: underline;
 }
 
 /* Optional: color while clicking */
 a:active {
     color: RoyalBlue;
+    text-decoration: underline;
 }
 </style>
 
