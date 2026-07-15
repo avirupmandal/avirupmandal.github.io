@@ -35,7 +35,7 @@ a:active {
 
 <p>
 I am an Assistant Professor in the Department of
-<a href="https://cse.iitpkd.ac.in/">Computer Science and Engineering</a>
+<a href="https://cse.iitpkd.ac.in/" style="text-decoration:none">Computer Science and Engineering</a>
 at
 <a href="https://iitpkd.ac.in/">IIT Palakkad</a>.
 
