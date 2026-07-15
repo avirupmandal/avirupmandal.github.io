@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Remove underline from all links */
+a,
+a:visited,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none !important;
+}
+
+/* Normal link color */
+a,
+a:visited {
+    color: inherit !important;
+}
+
+/* Hover color */
+a:hover,
+a:focus {
+    color: RoyalBlue !important;
+}
