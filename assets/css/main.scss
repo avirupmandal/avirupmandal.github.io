@@ -39,20 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* Override Minimal Mistakes link styling */
-.page__content a,
-.page__content a:visited {
-  color: inherit !important;
-  text-decoration: none !important;
-  background-image: none !important;
-  box-shadow: none !important;
-}
-
-.page__content a:hover,
-.page__content a:focus {
-  color: RoyalBlue !important;
-  text-decoration: none !important;
-  background-image: none !important;
-  box-shadow: none !important;
-}
