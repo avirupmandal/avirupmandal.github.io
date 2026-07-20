@@ -11,15 +11,15 @@ redirect_from:
 
 <style>
 .page {
-    max-width: 1600px;
+    max-width: 1800px;
 }
 
 .page__inner-wrap {
-    max-width: 1600px;
+    max-width: 1800px;
 }
 
 .archive {
-    max-width: 1600px;
+    max-width: 1800px;
 }
 
 .page__content p {
