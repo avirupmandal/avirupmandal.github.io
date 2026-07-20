@@ -13,11 +13,11 @@ redirect_from:
 .page__content p {
     font-size: 0.9rem;
     line-height: 1.5;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.25em;
 }
 
 .page__content h2 {
-    margin-top: 0.5em;
+    margin-top: 0.25em;
     margin-bottom: 0.25em;
 }
 
