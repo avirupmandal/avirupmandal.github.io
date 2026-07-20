@@ -11,8 +11,10 @@ redirect_from:
 
 <style>
 .page {
-    width: 80%;
+    width: 100%;
     max-width: 1800px;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
 
 .page__inner-wrap {
