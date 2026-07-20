@@ -80,6 +80,64 @@ Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>. <i>(*Joint first au
 <a href="https://doi.org/10.1145/3623053.3623366" style="text-decoration:none">[Paper]</a>
 </p>
 
+<p>
+<b>Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation</b><br>
+<b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
+<i>Computer Graphics Forum. 2023.</i><br>
+<a href="https://avirupmandal.github.io/fracture-cgf2022/" style="text-decoration:none">[Project Page]</a>
+&nbsp;
+<a href="../files/CGF_paper_main_2022.pdf" style="text-decoration:none">[Paper]</a>
+&nbsp;
+<a href="../files/CGF_paper_supplement_2022.pdf" style="text-decoration:none">[Supplementary]</a>
+</p>
+
+<p>
+<b>Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy</b><br>
+<b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
+<i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (GRAPP). 2023.</i><br>
+<a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">[Project Page]</a>
+&nbsp;
+<a href="../files/GRAPP2023_deformation.pdf" style="text-decoration:none">[Paper]</a>
+</p>
+
+<p>
+<b>Simulating Fracture in Anisotropic Materials Containing Impurities</b><br>
+<b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
+<i>ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG). 2022.</i><br>
+<a href="https://avirupmandal.github.io/randomgraph-mig22/" style="text-decoration:none">[Project Page]</a>
+&nbsp;
+<a href="../files/MIG2022_Random_Graph_Author_Copy.pdf" style="text-decoration:none">[Paper]</a>
+&nbsp;
+<a href="../files/MIG2022_Random_Graph_Author_Copy_supplementary.pdf" style="text-decoration:none">[Supplementary]</a>
+</p>
+
+<p>
+<b>Interactive Physics-Based Virtual Sculpting with Haptic Feedback</b><br>
+<b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
+<i>ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D). 2022.</i><br>
+<i>Journal version appeared in Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACMCGIT).</i><br>
+<a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">[Project Page]</a>
+&nbsp;
+<a href="../files/I3D2022_Virtual_sculpting_PACM_Author.pdf" style="text-decoration:none">[Paper]</a>
+</p>
+
+<p>
+<b>Artist Controlled Fracture Design Using Impurity Maps</b>
+<a href="../files/SIGGRAPH2022_SRC_Avirup%20Mandal.pdf" style="text-decoration:none">
+<span style="color:red;">[SRC Semi-Finalist]</span>
+</a><br>
+<b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
+<i>SIGGRAPH Posters. 2022.</i>
+<span style="color:darkgreen;">
+<i>(Specially selected for Technical Paper Oral Session presentation)</i>
+</span><br>
+<a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">[Abstract]</a>
+&nbsp;
+<a href="../files/SIGGRAPH2022_Poster.pdf" style="text-decoration:none">[Poster]</a>
+&nbsp;
+<a href="../videos/poster_sig_22.mp4" style="text-decoration:none">[Video]</a>
+</p>
+
 <!---
 **Geometric Shape Optimization for Limbless Locomotion**<br>
 Utpal Khanal and <span style="font-size: 16px"> <b>Avirup Mandal</b>.<br>
@@ -98,7 +156,7 @@ Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup
 <span style="font-size: 16px">Avirup Mandal<br> 
 <i>SIGGRAPH Asia Doctoral Consortium. 2023.</i><br>
 <a href="https://doi.org/10.1145/3623053.3623366" style="text-decoration:none">[Paper]</a> </span><br>
--->
+
 
 **Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation**<br>
 <span style="font-size: 16px"> <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br> 
@@ -124,7 +182,8 @@ Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup
 **Artist Controlled Fracture Design Using Impurity Maps** <a href='../files/SIGGRAPH2022_SRC_Avirup Mandal.pdf' style="text-decoration:none"><span style="color:red; font-size:16px">[SRC Semi-Finalist]</span></a><br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>SIGGRAPH Posters. 2022.</i><span style="color:darkgreen; font-size: 16px"> <i>(Specially selected for Technical Paper Oral Session presentation)</i></span>.<br> 
-<a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">[Abstract]</a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none">[Poster]</a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none">[Video]</a> </span><br>  
+<a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">[Abstract]</a> &nbsp; <a href='../files/SIGGRAPH2022_Poster.pdf' style="text-decoration:none">[Poster]</a> &nbsp; <a href='../videos/poster_sig_22.mp4' style="text-decoration:none">[Video]</a> </span><br> 
+--> 
 
 <!--- <span style="color:darkgreen; font-size: 16px"> <sup>**1**</sup> <i><b>Specially selected for Technical Paper Oral Session presentation</b></i></span>. -->
 
