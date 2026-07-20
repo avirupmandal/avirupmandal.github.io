@@ -9,7 +9,6 @@ redirect_from:
   - /resume.html
 ---
 <style>
-/* Smaller text only on the homepage */
 .page__content p {
     font-size: 0.9rem;
     line-height: 1.5;
@@ -26,7 +25,6 @@ redirect_from:
     font-size: 0.9rem;
 } 
  
-/* Default link style */
 a {
     color: inherit;          /* Use the surrounding text color */
     text-decoration: none;   /* Remove underline */
