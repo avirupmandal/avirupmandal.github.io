@@ -117,6 +117,21 @@ OpenGL, CUDA, OpenHaptics
 HTML, CSS
 </p>
 
+<!-- Reviewer: NCC 2025, SN Computer Science, ICVGIP 2025 -->
+
+<!---
+Position of Responsibility
+======
+- Best Teacher Award Committee, 2025
+- Chairperson of Department Purchase Committee, 2025
+- Member of Department Purchase Committee, 2024
+- IAC 7.0 Department Coordinator from CSE, 2024
+- BTP Coordinator at CSE, July 2025-Dec 2026
+- Research Scholar Day Department Coordinator from CSE, 2024-2025
+- Institute Day Department Coordinator from CSE, 2024
+- Department Coordinator for various Technical Writing courses
+--->
+
 
 <!---
 - <b>Indian Institute of Technology Palakkad</b>, July 2024 - Present\
@@ -159,15 +174,3 @@ Skills
 
 --->
 
-<!---
-Position of Responsibility
-======
-- Best Teacher Award Committee, 2025
-- Chairperson of Department Purchase Committee, 2025
-- Member of Department Purchase Committee, 2024
-- IAC 7.0 Department Coordinator from CSE, 2024
-- BTP Coordinator at CSE, July 2025-Dec 2026
-- Research Scholar Day Department Coordinator from CSE, 2024-2025
-- Institute Day Department Coordinator from CSE, 2024
-- Department Coordinator for various Technical Writing courses
---->

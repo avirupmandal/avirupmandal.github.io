@@ -161,4 +161,4 @@ a:active {
   Pisa, Italy
   --->
 
-<!-- Reviewer: NCC 2025, SN Computer Science, ICVGIP 2025 -->
+
