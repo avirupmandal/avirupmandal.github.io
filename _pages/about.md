@@ -11,12 +11,14 @@ redirect_from:
 <style>
 /* Smaller text only on the homepage */
 .page__content p {
-    font-size: 0.92rem;
-    line-height: 1.6;
+    text-align: justify;
+    text-justify: inter-word;   /* Improves spacing in most browsers */
+    font-size: 0.9rem;
+    line-height: 1.5;
 }
 
 .page__content li {
-    font-size: 0.92rem;
+    font-size: 0.9rem;
 } 
  
 /* Default link style */
