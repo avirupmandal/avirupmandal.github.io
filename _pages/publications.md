@@ -25,7 +25,7 @@ redirect_from:
 .page__content p {
     font-size: 0.9rem;
     line-height: 1.5;
-    margin-bottom: 0.25em;
+    margin-bottom: 0.75em;
     max-width: 100%;
 }
 
