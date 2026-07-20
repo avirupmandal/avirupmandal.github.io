@@ -9,20 +9,19 @@ redirect_from:
 <style>
 /* Smaller text only on the homepage */
 .page__content p {
-    text-align: justify;
-    text-justify: inter-word;   /* Improves spacing in most browsers */
-    font-size: 0.9rem;
-    line-height: 1.5;
+    font-size: 0.8rem;
+    line-height: 1.0;
+    margin-bottom: 0.5em;
 }
 
 .page__content h2 {
-    margin-top: 2em;
-    margin-bottom: 0.6em;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
 }
 
 
 .page__content li {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 } 
  
 /* Default link style */
