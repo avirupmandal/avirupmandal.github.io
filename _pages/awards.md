@@ -52,15 +52,13 @@ a:active {
 <h2>Honors and Awards</h2>
 
 <p>
-<b>Naik and Rastogi Award for Excellence in Ph.D. Research</b>, 2025<br>
-IIT Bombay<br>
+<b>Naik and Rastogi Award for Excellence in Ph.D. Research</b>, 2025, IIT Bombay<br>
 Winner<br>
 <i>Four graduate students from the Department of Electrical Engineering, IIT Bombay, were selected for the award in 2025.</i>
 </p>
 
 <p>
-<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>, 2025<br>
-GRAPP<br>
+<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>, 2025, GRAPP<br>
 Porto, Portugal<br>
 <i>Best Paper Award Finalist</i>
 </p>
