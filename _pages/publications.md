@@ -12,7 +12,7 @@ redirect_from:
 <style>
 <style>
 .page__inner-wrap {
-    max-width: 1100px;
+    max-width: 1300px;
 }
 
 .page__content p {
