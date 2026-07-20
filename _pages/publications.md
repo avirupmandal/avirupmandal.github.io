@@ -19,7 +19,7 @@ redirect_from:
     font-size: 0.9rem;
     line-height: 1.5;
     margin-bottom: 0.25em;
-    max-width: 100%;
+    max-width: 11500px00%;
 }
 
 .page__content h2 {
