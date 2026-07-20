@@ -9,6 +9,16 @@ redirect_from:
 ---
 
 <style>
+/* Smaller text only on the homepage */
+.page__content p {
+    font-size: 0.92rem;
+    line-height: 1.6;
+}
+
+.page__content li {
+    font-size: 0.92rem;
+} 
+ 
 /* Default link style */
 a {
     color: inherit;          /* Use the surrounding text color */
