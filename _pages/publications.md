@@ -123,9 +123,7 @@ Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>. <i>(*Joint first au
 
 <p>
 <b>Artist Controlled Fracture Design Using Impurity Maps</b>
-<a href="../files/SIGGRAPH2022_SRC_Avirup%20Mandal.pdf" style="text-decoration:none">
-<span style="color:red;">[SRC Semi-Finalist]</span>
-</a><br>
+<a href="../files/SIGGRAPH2022_SRC_Avirup%20Mandal.pdf" title="SRC Semi-Finalist" style="text-decoration:none">&#11088;</a><br>
 <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>SIGGRAPH Posters. 2022.</i>
 <span style="color:darkgreen;">
