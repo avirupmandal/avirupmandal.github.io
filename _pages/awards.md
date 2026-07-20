@@ -64,43 +64,37 @@ Porto, Portugal<br>
 </p>
 
 <p>
-<b>Thesis Presentation at SIGGRAPH Asia Doctoral Consortium</b>, 2023<br>
-SIGGRAPH Asia<br>
+<b>Thesis Presentation at SIGGRAPH Asia Doctoral Consortium</b>, 2023, SIGGRAPH Asia<br>
 Doctoral Consortium<br>
 <i>Ten graduate students worldwide were selected to present their doctoral research.</i>
 </p>
 
 <p>
-<b>Qualcomm Innovation Fellowship</b>, 2022<br>
-Qualcomm Research<br>
+<b>Qualcomm Innovation Fellowship</b>, 2022, Qualcomm Research<br>
 Super Winner<br>
 <i>Five graduate students across India individually awarded a prize of one million INR.</i>
 </p>
 
 <p>
-<b>Artist Controlled Fracture Design Using Impurity Maps</b>, 2022<br>
-SIGGRAPH<br>
+<b>Artist Controlled Fracture Design Using Impurity Maps</b>, 2022, SIGGRAPH<br>
 Vancouver, Canada<br>
 <i>ACM Student Research Competition Semi-Finalist</i>
 </p>
 
 <p>
-<b>Qualcomm Innovation Fellowship</b>, 2021<br>
-Qualcomm Research<br>
+<b>Qualcomm Innovation Fellowship</b>, 2021, Qualcomm Research<br>
 Winner<br>
 <i>Thirteen graduate students across India individually awarded a prize of one million INR.</i>
 </p>
 
 <p>
-<b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>, 2021<br>
-IVAPP<br>
+<b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>, 2021, IVAPP<br>
 Virtual<br>
 <i>Best Paper Award Finalist</i>
 </p>
 
 <p>
-<b>Best Teaching Assistant Award</b>, 2020 &amp; 2021<br>
-IIT Bombay<br>
+<b>Best Teaching Assistant Award</b>, 2020 &amp; 2021, IIT Bombay<br>
 <i>Awarded Twice</i>
 </p>
 
