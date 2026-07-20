@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -64,6 +64,60 @@ Assistant Professor, Department of Computer Science and Engineering
 Postdoctoral Researcher<br>
 <i>Host: Professor Subhasis Chaudhuri</i>
 </p>
+
+<p>
+<b>Indian Statistical Institute Kolkata</b>, May 2014 – July 2014<br>
+Research Intern<br>
+<i>Mentor: Professor Kumar Sankar Ray</i>
+</p>
+
+<h2>Education</h2>
+
+<p>
+<b>Indian Institute of Technology Bombay</b>, 2018 – 2023<br>
+Ph.D. in Computer Graphics &amp; Geometry Processing, Department of Electrical Engineering<br>
+<i>Supervisors: Professor Subhasis Chaudhuri &amp; Professor Parag Chaudhuri</i>
+</p>
+
+<p>
+<b>Indian Institute of Technology Bombay</b>, 2016 – 2018<br>
+M.Tech. in Communication &amp; Signal Processing, Department of Electrical Engineering<br>
+<i>Supervisor: Professor Subhasis Chaudhuri</i>
+</p>
+
+<p>
+<b>Jadavpur University</b>, 2011 – 2015<br>
+B.E. in Electronics &amp; Tele-Communication Engineering<br>
+<i>Supervisor: Professor Subir Kumar Sarkar</i>
+</p>
+
+<h2>Skills</h2>
+
+<p>
+<b>Languages</b><br>
+Bengali (Native), English (Full Professional Proficiency), Hindi (Limited Working Proficiency)
+</p>
+
+<p>
+<b>Programming Languages</b><br>
+C, C++, Java, Python
+</p>
+
+<p>
+<b>Software Tools</b><br>
+Git, MATLAB, LaTeX, Houdini, MeshLab, Visual Studio, Eclipse
+</p>
+
+<p>
+<b>APIs</b><br>
+OpenGL, CUDA, OpenHaptics
+</p>
+
+<p>
+<b>Web Development</b><br>
+HTML, CSS
+</p>
+
 
 <!---
 - <b>Indian Institute of Technology Palakkad</b>, July 2024 - Present\
