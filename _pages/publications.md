@@ -56,11 +56,31 @@ a:active {
 Utpal Khanal and <b>Avirup Mandal</b>.<br>
 </p>
 
+<p>
+<b>High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images</b> &nbsp; <a href="https://doi.org/10.48550/arXiv.2605.07254" style="text-decoration:none">[Preprint]</a><br>
+Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>.
+<i>(*Joint first authors)</i><br>
+</p>
+
+<p>
+<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b> &nbsp; <a href="https://avirupmandal.github.io/interactive-fracture-grapp2025/" style="text-decoration:none">[Project Page]</a>
+&nbsp;
+<a href="../files/GRAPP_Galerkin_Multigrid_2025.pdf" style="text-decoration:none">[Paper]</a>
+<b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
+<i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (GRAPP). 2025.</i><br>
+<a href="../files/GRAPP_2025_Best_Paper_Award.pdf" style="text-decoration:none"><span style="color:red;">[Best Paper Finalist]</span></a><br>
+</p>
+
+<p>
+<b>Fast Remeshing-Free Methods for Complex Cutting and Fracture Simulation</b> &nbsp; <a href="https://doi.org/10.1145/3623053.3623366" style="text-decoration:none">[Paper]</a><br>
+<b>Avirup Mandal</b><br>
+<i>SIGGRAPH Asia Doctoral Consortium. 2023.</i><br>
+</p>
+
 <!---
 **Geometric Shape Optimization for Limbless Locomotion**<br>
 Utpal Khanal and <span style="font-size: 16px"> <b>Avirup Mandal</b>.<br>
 <a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none">[Preprint]</a> </span><br>
--->
 
 **High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**<br>
 Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup Mandal</b>. <i> (\*Joint first authors)</i>.<br>
@@ -75,6 +95,7 @@ Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup
 <span style="font-size: 16px">Avirup Mandal<br> 
 <i>SIGGRAPH Asia Doctoral Consortium. 2023.</i><br>
 <a href="https://doi.org/10.1145/3623053.3623366" style="text-decoration:none">[Paper]</a> </span><br>
+-->
 
 **Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation**<br>
 <span style="font-size: 16px"> <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br> 
