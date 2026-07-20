@@ -53,74 +53,62 @@ a:active {
 
 <p>
 <b>Position-based Dynamics: How to Simulate Real-World Phenomena using Simple Differential Equations</b><br>
-<i>Higher Secondary School Teacher Transformation Programme (Government of Kerala), Indian Institute of Technology Palakkad</i><br>
-December 22, 2025, Palakkad, India
+<i>Higher Secondary School Teacher Transformation Programme (Government of Kerala), Indian Institute of Technology Palakkad</i>, December 22, 2025, Palakkad, India
 </p>
 
 <p>
 <b>A Very Gentle Intro to Ray Tracing</b><br>
-<i>Science Quest, Indian Institute of Technology Palakkad</i><br>
-May 24, 2025, and May 23, 2026, Palakkad, India
+<i>Science Quest, Indian Institute of Technology Palakkad</i>, May 24, 2025, and May 23, 2026, Palakkad, India
 </p>
 
 <p>
 <b>AI for Haptics</b><br>
-<i>Invited Talk, Sardar Patel Institute of Technology</i><br>
-April 28, 2025, Mumbai, India
+<i>Invited Talk, Sardar Patel Institute of Technology</i>, April 28, 2025, Mumbai, India
 </p>
 
 <p>
-<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b><br>
-<i>Technical Paper Presentation, VISIGRAPP (GRAPP) 2025</i><br>
-Porto, Portugal
+<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>
+<i>Technical Paper Presentation, VISIGRAPP (GRAPP) 2025</i>, Porto, Portugal
 </p>
 
 <p>
 <b>Fast Remeshing-Free Methods for Complex Cutting and Fracture Simulation</b><br>
-<i>Doctoral Consortium Presentation, SIGGRAPH Asia 2023</i><br>
-Sydney, Australia
+<i>Doctoral Consortium Presentation, SIGGRAPH Asia 2023</i>, Sydney, Australia
 </p>
 
 <p>
 <b>Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy</b><br>
-<i>Technical Paper Presentation, VISIGRAPP (GRAPP) 2023</i><br>
-Lisbon, Portugal
+<i>Technical Paper Presentation, VISIGRAPP (GRAPP) 2023</i>, Lisbon, Portugal
 </p>
 
 <p>
 <b>Simulating Fracture in Anisotropic Materials Containing Impurities</b><br>
-<i>Technical Paper Presentation, ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG) 2022</i><br>
-Virtual
+<i>Technical Paper Presentation, ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG) 2022</i>, Virtual
 </p>
 
 <p>
 <b>Interactive Physics-Based Virtual Sculpting with Haptic Feedback</b><br>
-<i>Technical Paper Presentation, ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D) 2022</i><br>
-Virtual
+<i>Technical Paper Presentation, ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D) 2022</i>, Virtual
 </p>
 
 <p>
 <b>Artist Controlled Fracture Design Using Impurity Maps</b><br>
-<i>Special Invitation for Technical Paper Presentation, SIGGRAPH 2022</i><br>
-Vancouver, Canada
+<i>Special Invitation for Technical Paper Presentation, SIGGRAPH 2022</i>, Vancouver, Canada
 </p>
 
 <p>
 <b>Scalable Visual Simulation of Ductile and Brittle Fracture</b><br>
-<i>Special Invitation for Technical Paper Presentation, SIGGRAPH 2021</i><br>
-Virtual
+<i>Special Invitation for Technical Paper Presentation, SIGGRAPH 2021</i>, Virtual
 </p>
 
 <p>
 <b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b><br>
-<i>Technical Paper Presentation, VISIGRAPP (IVAPP) 2021</i><br>
-Virtual
+<i>Technical Paper Presentation, VISIGRAPP (IVAPP) 2021</i>, Virtual
 </p>
 
 <p>
 <b>Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture</b><br>
-<i>Technical Paper Presentation, EuroHaptics 2018</i><br>
-Pisa, Italy
+<i>Technical Paper Presentation, EuroHaptics 2018</i>, Pisa, Italy
 </p>
 
 <!---
