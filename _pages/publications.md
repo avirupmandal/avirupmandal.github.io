@@ -11,12 +11,12 @@ redirect_from:
 <style>
 /* Smaller text only on the homepage */
 .page__content p {
-    font-size: 0.9rem;
-    line-height: 1.5;
+    font-size: 0.75rem;
+    line-height: 1.0;
 }
 
 .page__content li {
-    font-size: 0.9rem;
+    font-size: 0.75rem;
 } 
  
 /* Default link style */
@@ -45,20 +45,20 @@ a:active {
 
 <!--- ## <span style="color:Maroon"> Journal/Conference Papers </span> -->
 **Geometric Shape Optimization for Limbless Locomotion**<br>
-Utpal Khanal and <span style="font-size: 16px"> <b>Avirup Mandal</b>.<br>
+Utpal Khanal and <span style="font-size: 10px"> <b>Avirup Mandal</b>.<br>
 <a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none">[Preprint]</a> </span><br>
 
 **High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**<br>
-Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup Mandal</b>. <i> (\*Joint first authors)</i>.<br>
+Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 10px"> <b>Avirup Mandal</b>. <i> (\*Joint first authors)</i>.<br>
 <a href="https://doi.org/10.48550/arXiv.2605.07254" style="text-decoration:none">[Preprint]</a> </span><br>
 
-**Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications** <a href='../files/GRAPP_2025_Best_Paper_Award.pdf' style="text-decoration:none"><span style="color:red; font-size:16px">[Best Paper Finalist]</span></a><br>
-<span style="font-size: 16px"> <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
+**Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications** <a href='../files/GRAPP_2025_Best_Paper_Award.pdf' style="text-decoration:none"><span style="color:red; font-size:10px">[Best Paper Finalist]</span></a><br>
+<span style="font-size: 10px"> <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP. 2025.</i><br>
 <a href="https://avirupmandal.github.io/interactive-fracture-grapp2025/" style="text-decoration:none">[Project Page]</a> &nbsp; <a href="../files/GRAPP_Galerkin_Multigrid_2025.pdf" style="text-decoration:none">[Paper]</a></span> <br>
 
 **Fast Remeshing-Free Methods for Complex Cutting and Fracture Simulation**<br>
-<span style="font-size: 16px">Avirup Mandal<br> 
+<span style="font-size: 10px">Avirup Mandal<br> 
 <i>SIGGRAPH Asia Doctoral Consortium. 2023.</i><br>
 <a href="https://doi.org/10.1145/3623053.3623366" style="text-decoration:none">[Paper]</a> </span><br>
 
