@@ -7,10 +7,35 @@ redirect_from:
   - /publications
 ---
 
+<style>
+/* Default link style */
+a {
+    color: inherit;          /* Use the surrounding text color */
+    text-decoration: none;   /* Remove underline */
+    transition: color 0.2s ease;
+}
+
+/* Keep visited links the same color */
+a:visited {
+    color: inherit;
+}
+
+/* Change color only on hover */
+a:hover,
+a:focus {
+    color: RoyalBlue;
+}
+
+/* Optional: color while clicking */
+a:active {
+    color: RoyalBlue;
+}
+</style>
+
 <!--- ## <span style="color:Maroon"> Journal/Conference Papers </span> -->
 **Geometric Shape Optimization for Limbless Locomotion**<br>
 Utpal Khanal and <span style="font-size: 16px"> <b>Avirup Mandal</b>.<br>
-<a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none"><span style="color:RoyalBlue">[Preprint]</span></a> </span><br>
+<a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none">[Preprint]</a> </span><br>
 
 **High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**<br>
 Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup Mandal</b>. <i> (\*Joint first authors)</i>.<br>
