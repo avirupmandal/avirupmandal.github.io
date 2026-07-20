@@ -11,19 +11,19 @@ redirect_from:
 <style>
 /* Smaller text only on the homepage */
 .page__content p {
-    font-size: 0.8rem;
-    line-height: 1.0;
+    font-size: 0.9rem;
+    line-height: 1.5;
     margin-bottom: 0.5em;
 }
 
 .page__content h2 {
-    margin-top: 1em;
-    margin-bottom: 0.2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 
 .page__content li {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 } 
  
 /* Default link style */
