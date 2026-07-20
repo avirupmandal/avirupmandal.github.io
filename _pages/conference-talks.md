@@ -67,7 +67,7 @@ a:active {
 </p>
 
 <p>
-<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>
+<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b><br>
 <i>Technical Paper Presentation, VISIGRAPP (GRAPP) 2025</i>, Porto, Portugal
 </p>
 
