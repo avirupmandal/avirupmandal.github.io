@@ -52,9 +52,8 @@ a:active {
 <h2>Selected Publications and Patents</h2>
 
 <p>
-<strong>Geometric Shape Optimization for Limbless Locomotion</strong><br>
-Utpal Khanal and <strong>Avirup Mandal</strong>.<br>
-<a href="https://doi.org/10.48550/arXiv.2607.00524">[Preprint]</a>
+<b>Geometric Shape Optimization for Limbless Locomotion</b> &nbsp; <a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none">[Preprint]</a><br>
+Utpal Khanal and <b>Avirup Mandal</b>.<br>
 </p>
 
 <!---
