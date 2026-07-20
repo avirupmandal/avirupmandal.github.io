@@ -65,7 +65,7 @@ Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>. <i>(*Joint first au
 </p>
 
 <p>
-<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>&nbsp;<a href="../files/GRAPP_2025_Best_Paper_Award.pdf" style="text-decoration:none"><span style="color:red;">[Best Paper Finalist]</span></a><br>
+<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>&nbsp;&#11088;<a href="../files/GRAPP_2025_Best_Paper_Award.pdf" style="text-decoration:none"><span style="color:red;">[Best Paper Finalist]</span></a><br>
 <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (GRAPP). 2025.</i><br>
 <a href="https://avirupmandal.github.io/interactive-fracture-grapp2025/" style="text-decoration:none">[Project Page]</a>
@@ -138,6 +138,47 @@ Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>. <i>(*Joint first au
 <a href="../videos/poster_sig_22.mp4" style="text-decoration:none">[Video]</a>
 </p>
 
+<p>
+<b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>
+<a href="../files/IVAPP_2021_Best_Paper_Award.pdf" style="text-decoration:none">
+<span style="color:red;">[Best Paper Finalist]</span>
+</a><br>
+<b>Avirup Mandal</b>*, Kumar Ayush*, and Parag Chaudhuri.
+<i>(*Joint first authors)</i><br>
+<i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP). 2021.</i><br>
+<a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none">[Project Page]</a>
+&nbsp;
+<a href="../files/IVAPP2021_Black_Hole.pdf" style="text-decoration:none">[Paper]</a>
+</p>
+
+<p>
+<b>Scalable Visual Simulation of Ductile and Brittle Fracture</b><br>
+<b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
+<i>SIGGRAPH Posters. 2021.</i>
+<span style="color:darkgreen;">
+<i>(Specially selected for Technical Paper Oral Session presentation)</i>
+</span><br>
+<a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">[Abstract]</a>
+&nbsp;
+<a href="../files/SIGGRAPH2021_Poster.pdf" style="text-decoration:none">[Poster]</a>
+&nbsp;
+<a href="../videos/poster_sig_21.mp4" style="text-decoration:none">[Video]</a>
+</p>
+
+<p>
+<b>Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture</b><br>
+<b>Avirup Mandal</b>, Dwaipayan Sardar, and Subhasis Chaudhuri.<br>
+<i>EuroHaptics. 2018.</i><br>
+<a href="https://doi.org/10.1007/978-3-319-93399-3_34" style="text-decoration:none">[Paper]</a>
+</p>
+
+<p>
+<b>Generic Data Compression for Heart Diagnosis</b><br>
+Tanmoy Kundu, Kaushik Lahiri, <b>Avirup Mandal</b>, Amitava Mukherjee, Mrinal K. Naskar, and Sandipan Sinha.<br>
+<i>U.S. Patent 9477701 B1. 2016.</i><br>
+<a href="https://patentimages.storage.googleapis.com/68/7f/98/07e942c9ae44ee/US9477701.pdf" style="text-decoration:none">[Patent]</a>
+</p>
+
 <!---
 **Geometric Shape Optimization for Limbless Locomotion**<br>
 Utpal Khanal and <span style="font-size: 16px"> <b>Avirup Mandal</b>.<br>
@@ -187,6 +228,7 @@ Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup
 
 <!--- <span style="color:darkgreen; font-size: 16px"> <sup>**1**</sup> <i><b>Specially selected for Technical Paper Oral Session presentation</b></i></span>. -->
 
+<!---&#11088;
 **Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime** <a href='../files/IVAPP_2021_Best_Paper_Award.pdf' style="text-decoration:none"><span style="color:red; font-size:16px">[Best Paper Finalist]</span></a><br>
 <span style="font-size: 16px"><b>Avirup Mandal</b>\*, Kumar Ayush\*, and Parag Chaudhuri. <i> (\*Joint first authors)</i>.<br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP. 2021.</i><br>
@@ -201,13 +243,16 @@ Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup
 <span style="font-size: 16px"><b>Avirup Mandal</b>, Dwaipayan Sardar, and Subhasis Chaudhuri. <br>
 <i>EuroHaptics. 2018.</i><br>
 <a href="https://doi.org/10.1007/978-3-319-93399-3_34" style="text-decoration:none">[Paper]</a> </span><br>
+--->
 
 <!--- ## <span style="color:Maroon"> Posters </span> -->
 
 
 <!--- ## <span style="color:Maroon"> Patents </span> -->
 
+<!---
 **Generic Data Compression for Heart Diagnosis**<br>
 <span style="font-size: 16px"> Tanmoy Kundu, Kaushik Lahiri, <b>Avirup Mandal</b>, Amitava Mukherjee, Mrinal K. Naskar, and Sandipan Sinha.<br> 
 <i>U.S. Patent 9477701 B1 2016.</i><br>
 <a href="https://patentimages.storage.googleapis.com/68/7f/98/07e942c9ae44ee/US9477701.pdf" style="text-decoration:none">[Patent]</a></span>
+--->
