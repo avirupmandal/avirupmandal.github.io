@@ -18,7 +18,7 @@ redirect_from:
 
 .page__content h2 {
     margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.25em;
 }
 
 
