@@ -1,11 +1,126 @@
 ---
-layout: archive
-title: "Awards"
+#layout: archive
+title: ""
 permalink: /awards/
+excerpt: "Awards"
 author_profile: true
 redirect_from:
   - /awards
+  - /awards.html
 ---
+
+<style>
+.page__content p {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin-bottom: 0.25em;
+}
+
+.page__content h2 {
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+}
+
+
+.page__content li {
+    font-size: 0.9rem;
+} 
+ 
+a {
+    color: inherit;          /* Use the surrounding text color */
+    text-decoration: none;   /* Remove underline */
+    transition: color 0.2s ease;
+}
+
+/* Keep visited links the same color */
+a:visited {
+    color: inherit;
+}
+
+/* Change color only on hover */
+a:hover,
+a:focus {
+    color: RoyalBlue;
+}
+
+/* Optional: color while clicking */
+a:active {
+    color: RoyalBlue;
+}
+</style>
+
+<h2>Honors and Awards</h2>
+
+<p>
+<b>Naik and Rastogi Award for Excellence in Ph.D. Research</b>, 2025<br>
+IIT Bombay<br>
+Winner<br>
+<i>Four graduate students from the Department of Electrical Engineering, IIT Bombay, were selected for the award in 2025.</i>
+</p>
+
+<p>
+<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>, 2025<br>
+GRAPP<br>
+Porto, Portugal<br>
+<i>Best Paper Award Finalist</i>
+</p>
+
+<p>
+<b>Thesis Presentation at SIGGRAPH Asia Doctoral Consortium</b>, 2023<br>
+SIGGRAPH Asia<br>
+Doctoral Consortium<br>
+<i>Ten graduate students worldwide were selected to present their doctoral research.</i>
+</p>
+
+<p>
+<b>Qualcomm Innovation Fellowship</b>, 2022<br>
+Qualcomm Research<br>
+Super Winner<br>
+<i>Five graduate students across India individually awarded a prize of one million INR.</i>
+</p>
+
+<p>
+<b>Artist Controlled Fracture Design Using Impurity Maps</b>, 2022<br>
+SIGGRAPH<br>
+Vancouver, Canada<br>
+<i>ACM Student Research Competition Semi-Finalist</i>
+</p>
+
+<p>
+<b>Qualcomm Innovation Fellowship</b>, 2021<br>
+Qualcomm Research<br>
+Winner<br>
+<i>Thirteen graduate students across India individually awarded a prize of one million INR.</i>
+</p>
+
+<p>
+<b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>, 2021<br>
+IVAPP<br>
+Virtual<br>
+<i>Best Paper Award Finalist</i>
+</p>
+
+<p>
+<b>Best Teaching Assistant Award</b>, 2020 &amp; 2021<br>
+IIT Bombay<br>
+<i>Awarded Twice</i>
+</p>
+
+<h2>Achievements</h2>
+
+<p>
+<b>All India Rank 113</b><br>
+GATE (Electronics and Communication Engineering), 2016<br>
+<i>A total of approximately 152,000 candidates appeared for the examination.</i>
+</p>
+
+<p>
+<b>State Rank 94</b><br>
+West Bengal Joint Entrance Examination, 2011<br>
+<i>A total of approximately 125,000 candidates appeared for the examination.</i>
+</p>
+
+<!---
 - <b>Naik and Rastogi Award for Excellence in Ph.D. Research</b>, 2025\
   IIT Bombay\
   Winner\
@@ -46,3 +161,4 @@ Achievements
 - <b>State Rank 94</b>\
   West Bengal Joint Entrance Examination, 2011\
   *A total of 125k candidates appeared in the examination* <br>
+  --->
