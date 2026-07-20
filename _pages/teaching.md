@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Teaching"
+title: ""
 excerpt: "Teaching"
 permalink: /teaching/
 author_profile: true
@@ -50,7 +50,7 @@ a:active {
 </style>
 
 {% include base_path %}
-<h2>Doctoral Students</h2>
+<h2>Teaching</h2>
 
 <p>
 <b>CS5016: Computational Methods and Applications</b> (2026 Jan–May, 2025 Jan–May)
