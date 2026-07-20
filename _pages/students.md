@@ -1,8 +1,8 @@
 ---
 #layout: archive
-title: "Doctoral Students"
+title: ""
 permalink: /students/
-excerpt: "Studnets"
+excerpt: "Students"
 author_profile: true
 redirect_from:
   - /students
