@@ -52,44 +52,37 @@ a:active {
 <h2>Honors and Awards</h2>
 
 <p>
-<b>Naik and Rastogi Award for Excellence in Ph.D. Research</b>, 2025, IIT Bombay<br>
-Winner<br>
+<b>Naik and Rastogi Award for Excellence in Ph.D. Research</b>, 2025, IIT Bombay, Winner<br>
 <i>Four graduate students from the Department of Electrical Engineering, IIT Bombay, were selected for the award in 2025.</i>
 </p>
 
 <p>
-<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>, 2025, GRAPP<br>
-Porto, Portugal<br>
+<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>, 2025, GRAPP, Porto, Portugal<br>
 <i>Best Paper Award Finalist</i>
 </p>
 
 <p>
-<b>Thesis Presentation at SIGGRAPH Asia Doctoral Consortium</b>, 2023, SIGGRAPH Asia<br>
-Doctoral Consortium<br>
+<b>Thesis Presentation at SIGGRAPH Asia Doctoral Consortium</b>, 2023, SIGGRAPH Asia, Sydney, Australia, Doctoral Consortium<br>
 <i>Ten graduate students worldwide were selected to present their doctoral research.</i>
 </p>
 
 <p>
-<b>Qualcomm Innovation Fellowship</b>, 2022, Qualcomm Research<br>
-Super Winner<br>
+<b>Qualcomm Innovation Fellowship</b>, 2022, Qualcomm Research, Super Winner<br>
 <i>Five graduate students across India individually awarded a prize of one million INR.</i>
 </p>
 
 <p>
-<b>Artist Controlled Fracture Design Using Impurity Maps</b>, 2022, SIGGRAPH<br>
-Vancouver, Canada<br>
+<b>Artist Controlled Fracture Design Using Impurity Maps</b>, 2022, SIGGRAPH, Vancouver, Canada<br>
 <i>ACM Student Research Competition Semi-Finalist</i>
 </p>
 
 <p>
-<b>Qualcomm Innovation Fellowship</b>, 2021, Qualcomm Research<br>
-Winner<br>
+<b>Qualcomm Innovation Fellowship</b>, 2021, Qualcomm Research, Winner<br>
 <i>Thirteen graduate students across India individually awarded a prize of one million INR.</i>
 </p>
 
 <p>
-<b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>, 2021, IVAPP<br>
-Virtual<br>
+<b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>, 2021, IVAPP, Virtual<br>
 <i>Best Paper Award Finalist</i>
 </p>
 
