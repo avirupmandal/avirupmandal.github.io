@@ -1,24 +1,31 @@
 ---
-layout: archive
-title: "Selected Publications and Patents"
+#layout: archive
+title: ""
 permalink: /publications/
+excerpt: "Publications"
 author_profile: true
 redirect_from:
   - /publications
+  - /publications.html
 ---
 
 <style>
-/* Smaller text only on the homepage */
 .page__content p {
     font-size: 0.9rem;
     line-height: 1.5;
+    margin-bottom: 0.25em;
 }
+
+.page__content h2 {
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+}
+
 
 .page__content li {
     font-size: 0.9rem;
 } 
  
-/* Default link style */
 a {
     color: inherit;          /* Use the surrounding text color */
     text-decoration: none;   /* Remove underline */
@@ -42,10 +49,19 @@ a:active {
 }
 </style>
 
-<!--- ## <span style="color:Maroon"> Journal/Conference Papers </span> -->
+<h2>Selected Publications and Patents</h2>
+
+<p>
+<strong>Geometric Shape Optimization for Limbless Locomotion</strong><br>
+Utpal Khanal and <strong>Avirup Mandal</strong>.<br>
+<a href="https://doi.org/10.48550/arXiv.2607.00524">[Preprint]</a>
+</p>
+
+<!---
 **Geometric Shape Optimization for Limbless Locomotion**<br>
 Utpal Khanal and <span style="font-size: 16px"> <b>Avirup Mandal</b>.<br>
 <a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none">[Preprint]</a> </span><br>
+-->
 
 **High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**<br>
 Nandhana Sunil\*, Abhirami R Iyer\* and <span style="font-size: 16px"> <b>Avirup Mandal</b>. <i> (\*Joint first authors)</i>.<br>
