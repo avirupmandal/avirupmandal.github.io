@@ -10,21 +10,6 @@ redirect_from:
 ---
 
 <style>
-.page {
-    width: 100%;
-    max-width: 1800px;
-    margin: 0 auto;
-    box-sizing: border-box;
-}
-
-.page__inner-wrap {
-    max-width: 1800px;
-}
-
-.archive {
-    max-width: 1800px;
-}
-
 .page__content p {
     font-size: 0.9rem;
     line-height: 1.5;
