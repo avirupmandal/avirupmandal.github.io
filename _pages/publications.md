@@ -10,16 +10,23 @@ redirect_from:
 ---
 
 <style>
-<style>
+.page {
+    max-width: 1600px;
+}
+
 .page__inner-wrap {
-    max-width: 1500px;
+    max-width: 1600px;
+}
+
+.archive {
+    max-width: 1600px;
 }
 
 .page__content p {
     font-size: 0.9rem;
     line-height: 1.5;
     margin-bottom: 0.25em;
-    max-width: 1500px;
+    max-width: 100%;
 }
 
 .page__content h2 {
