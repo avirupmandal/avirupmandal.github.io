@@ -8,15 +8,14 @@ redirect_from:
 ---
 
 <style>
-<style>
 /* Smaller text only on the homepage */
 .page__content p {
-    font-size: 0.75rem;
-    line-height: 1.0;
+    font-size: 0.9rem;
+    line-height: 1.5;
 }
 
 .page__content li {
-    font-size: 0.75rem;
+    font-size: 0.9rem;
 } 
  
 /* Default link style */
@@ -45,7 +44,7 @@ a:active {
 
 <!--- ## <span style="color:Maroon"> Journal/Conference Papers </span> -->
 **Geometric Shape Optimization for Limbless Locomotion**<br>
-Utpal Khanal and <span style="font-size: 10px"> <b>Avirup Mandal</b>.<br>
+Utpal Khanal and <span style="font-size: 16px"> <b>Avirup Mandal</b>.<br>
 <a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none">[Preprint]</a> </span><br>
 
 **High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**<br>
