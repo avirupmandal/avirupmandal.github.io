@@ -6,26 +6,66 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-.page__content ul,
-.page__content ol {
+<style>
+/* Smaller text only on the homepage */
+.page__content p {
+    text-align: justify;
+    text-justify: inter-word;   /* Improves spacing in most browsers */
     font-size: 0.9rem;
     line-height: 1.5;
 }
+
+.page__content h2 {
+    margin-top: 2em;
+    margin-bottom: 0.6em;
+}
+
 
 .page__content li {
     font-size: 0.9rem;
-    font-family: inherit;
-    line-height: 1.5;
-    font-weight: 400;
+} 
+ 
+/* Default link style */
+a {
+    color: inherit;          /* Use the surrounding text color */
+    text-decoration: none;   /* Remove underline */
+    transition: color 0.2s ease;
 }
 
-.page__content li p {
-    font-size: inherit;
-    font-family: inherit;
+/* Keep visited links the same color */
+a:visited {
+    color: inherit;
 }
+
+/* Change color only on hover */
+a:hover,
+a:focus {
+    color: RoyalBlue;
+}
+
+/* Optional: color while clicking */
+a:active {
+    color: RoyalBlue;
+}
+</style>
+
 
 {% include base_path %}
 
+<h2>Experience</h2>
+
+<p>
+<b>Indian Institute of Technology Palakkad</b>, July 2024 – Present<br>
+Assistant Professor, Department of Computer Science and Engineering
+</p>
+
+<p>
+<b>Indian Institute of Technology Bombay</b>, 2023 – 2024<br>
+Postdoctoral Researcher<br>
+<i>Host: Professor Subhasis Chaudhuri</i>
+</p>
+
+<!---
 - <b>Indian Institute of Technology Palakkad</b>, July 2024 - Present\
   Assistant Professor, Department of CSE <br>
   
@@ -63,6 +103,8 @@ Skills
   *OpenGL, CUDA, OpenHaptics*
 - <b>Web Dev</b>\
   *HTML, CSS*
+
+--->
 
 <!---
 Position of Responsibility
