@@ -39,3 +39,28 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Make all text smaller */
+html {
+    font-size: 14px !important;
+}
+
+body {
+    font-size: 0.9rem;
+}
+
+.page__content {
+    font-size: 0.9rem;
+}
+
+.archive__item-title {
+    font-size: 1.1rem;
+}
+
+.author__bio {
+    font-size: 0.85rem;
+}
+
+.sidebar {
+    font-size: 0.85rem;
+}
