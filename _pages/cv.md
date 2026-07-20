@@ -6,42 +6,23 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<style>
-/* Smaller text only on the homepage */
-.page__content p {
-    text-align: justify;
-    text-justify: inter-word;   /* Improves spacing in most browsers */
+.page__content ul,
+.page__content ol {
     font-size: 0.9rem;
     line-height: 1.5;
 }
 
 .page__content li {
     font-size: 0.9rem;
-} 
- 
-/* Default link style */
-a {
-    color: inherit;          /* Use the surrounding text color */
-    text-decoration: none;   /* Remove underline */
-    transition: color 0.2s ease;
+    font-family: inherit;
+    line-height: 1.5;
+    font-weight: 400;
 }
 
-/* Keep visited links the same color */
-a:visited {
-    color: inherit;
+.page__content li p {
+    font-size: inherit;
+    font-family: inherit;
 }
-
-/* Change color only on hover */
-a:hover,
-a:focus {
-    color: RoyalBlue;
-}
-
-/* Optional: color while clicking */
-a:active {
-    color: RoyalBlue;
-}
-</style>
 
 {% include base_path %}
 
