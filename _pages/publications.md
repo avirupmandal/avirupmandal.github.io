@@ -10,6 +10,15 @@ redirect_from:
 ---
 
 <style>
+.archive {
+    max-width: 1100px;
+}
+
+.page {
+    width: 100%;
+    max-width: 1100px;
+}
+
 .page__content p {
     font-size: 0.9rem;
     line-height: 1.5;
