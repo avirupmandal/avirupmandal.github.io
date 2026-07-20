@@ -65,8 +65,7 @@ Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>. <i>(*Joint first au
 </p>
 
 <p>
-<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>&nbsp;<a href="../files/GRAPP_2025_Best_Paper_Award.pdf" title="Best Paper Finalist" style="text-decoration:none">&#11088;</a>
-<a href="../files/GRAPP_2025_Best_Paper_Award.pdf" style="text-decoration:none"><span style="color:red;">[Best Paper Finalist]</span></a><br>
+<b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>&nbsp;<a href="../files/GRAPP_2025_Best_Paper_Award.pdf" title="Best Paper Finalist" style="text-decoration:none">&#11088;</a><br>
 <b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (GRAPP). 2025.</i><br>
 <a href="https://avirupmandal.github.io/interactive-fracture-grapp2025/" style="text-decoration:none">[Project Page]</a>
@@ -141,9 +140,7 @@ Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>. <i>(*Joint first au
 
 <p>
 <b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>
-<a href="../files/IVAPP_2021_Best_Paper_Award.pdf" style="text-decoration:none">
-<span style="color:red;">[Best Paper Finalist]</span>
-</a><br>
+&nbsp;<a href="../files/IVAPP_2021_Best_Paper_Award.pdf" title="Best Paper Finalist" style="text-decoration:none">&#11088;</a><br>
 <b>Avirup Mandal</b>*, Kumar Ayush*, and Parag Chaudhuri.
 <i>(*Joint first authors)</i><br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP). 2021.</i><br>
