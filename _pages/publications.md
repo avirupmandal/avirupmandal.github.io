@@ -23,7 +23,7 @@ redirect_from:
 }
 
 .page__content med {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 
 
@@ -58,8 +58,9 @@ a:active {
 
 <p>
 <b>Geometric Shape Optimization for Limbless Locomotion</b><br>
-<med>Utpal Khanal and <b>Avirup Mandal</b></med>.<br>
+<med>Utpal Khanal and <b>Avirup Mandal</b>.<br>
 <a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none">[Preprint]</a>
+</med>
 </p>
 
 <p>
