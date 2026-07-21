@@ -43,10 +43,10 @@ a:visited {
 }
 
 /* Change color only on hover */
-a:hover,
+/*a:hover,
 a:focus {
     color: RoyalBlue;
-}
+}*/
 
 /* Optional: color while clicking */
 a:active {
