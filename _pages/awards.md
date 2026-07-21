@@ -99,7 +99,7 @@ a:active {
 <p>
 <b>All India Rank 113</b><br>
 <med>GATE (Electronics and Communication Engineering), 2016<br>
-<i>A total of approximately 152,000 candidates appeared for the examination.</i><med>
+<i>A total of approximately 152,000 candidates appeared for the examination.</i></med>
 </p>
 
 <p>
