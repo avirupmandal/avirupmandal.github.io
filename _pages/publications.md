@@ -31,7 +31,7 @@ redirect_from:
 } 
  
 a {
-    color: RoyalBlue;          /* Use the surrounding text color */
+    color: inherit;          /* Use the surrounding text color */
     text-decoration: none;   /* Remove underline */
     transition: color 0.2s ease;
 }
