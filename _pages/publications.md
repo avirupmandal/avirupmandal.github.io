@@ -58,14 +58,14 @@ a:active {
 <p>
 <b>Geometric Shape Optimization for Limbless Locomotion</b><br>
 <med>Utpal Khanal and <b>Avirup Mandal</b>.<br>
-<a href="https://doi.org/10.48550/arXiv.2607.00524">[Preprint]</a>
+<a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none" style="color: RoyalBlue">[Preprint]</a>
 </med>
 </p>
 
 <p>
 <b>High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images</b><br>
 <med>Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>. <i>(*Joint first authors)</i><br>
-<a href="https://doi.org/10.48550/arXiv.2605.07254">[Preprint]</a>
+<a href="https://doi.org/10.48550/arXiv.2605.07254" style="text-decoration:none" style="color: RoyalBlue">[Preprint]</a>
 </med>
 </p>
 
@@ -73,7 +73,7 @@ a:active {
 <b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>&nbsp;<a href="../files/GRAPP_2025_Best_Paper_Award.pdf" title="Best Paper Finalist" style="text-decoration:none">&#11088;</a><br>
 <med><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (GRAPP). 2025.</i><br>
-<a href="https://avirupmandal.github.io/interactive-fracture-grapp2025/" style="text-decoration:none">[Project Page]</a>
+<a href="https://avirupmandal.github.io/interactive-fracture-grapp2025/" style="text-decoration:none" style="color: RoyalBlue">[Project Page]</a>
 &nbsp;
 <a href="../files/GRAPP_Galerkin_Multigrid_2025.pdf" style="text-decoration:none">[Paper]</a>
 </med>
