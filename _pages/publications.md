@@ -42,7 +42,7 @@ a:visited {
 }
 
 /* Change color only on hover */
-/*a:hover,*/
+a:hover,
 a:focus {
     color: RoyalBlue;
 }
@@ -58,14 +58,14 @@ a:active {
 <p>
 <b>Geometric Shape Optimization for Limbless Locomotion</b><br>
 <med>Utpal Khanal and <b>Avirup Mandal</b>.<br>
-<a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none" style="color: RoyalBlue">[Preprint]</a>
+<a href="https://doi.org/10.48550/arXiv.2607.00524">[Preprint]</a>
 </med>
 </p>
 
 <p>
 <b>High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images</b><br>
 <med>Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>. <i>(*Joint first authors)</i><br>
-<a href="https://doi.org/10.48550/arXiv.2605.07254" style="text-decoration:none" style="color: RoyalBlue">[Preprint]</a>
+<a href="https://doi.org/10.48550/arXiv.2605.07254">[Preprint]</a>
 </med>
 </p>
 
@@ -73,9 +73,9 @@ a:active {
 <b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>&nbsp;<a href="../files/GRAPP_2025_Best_Paper_Award.pdf" title="Best Paper Finalist" style="text-decoration:none">&#11088;</a><br>
 <med><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (GRAPP). 2025.</i><br>
-<a href="https://avirupmandal.github.io/interactive-fracture-grapp2025/" style="text-decoration:none" style="color: RoyalBlue">[Project Page]</a>
+<a href="https://avirupmandal.github.io/interactive-fracture-grapp2025/">[Project Page]</a>
 &nbsp;
-<a href="../files/GRAPP_Galerkin_Multigrid_2025.pdf" style="text-decoration:none">[Paper]</a>
+<a href="../files/GRAPP_Galerkin_Multigrid_2025.pdf">[Paper]</a>
 </med>
 </p>
 
@@ -83,7 +83,7 @@ a:active {
 <b>Fast Remeshing-Free Methods for Complex Cutting and Fracture Simulation</b><br>
 <med><b>Avirup Mandal</b><br>
 <i>SIGGRAPH Asia Doctoral Consortium. 2023.</i><br>
-<a href="https://doi.org/10.1145/3623053.3623366" style="text-decoration:none">[Paper]</a>
+<a href="https://doi.org/10.1145/3623053.3623366">[Paper]</a>
 </med>
 </p>
 
@@ -91,11 +91,11 @@ a:active {
 <b>Remeshing-Free Graph-Based Finite Element Method for Fracture Simulation</b><br>
 <med><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>Computer Graphics Forum. 2023.</i><br>
-<a href="https://avirupmandal.github.io/fracture-cgf2022/" style="text-decoration:none">[Project Page]</a>
+<a href="https://avirupmandal.github.io/fracture-cgf2022/">[Project Page]</a>
 &nbsp;
-<a href="../files/CGF_paper_main_2022.pdf" style="text-decoration:none">[Paper]</a>
+<a href="../files/CGF_paper_main_2022.pdf">[Paper]</a>
 &nbsp;
-<a href="../files/CGF_paper_supplement_2022.pdf" style="text-decoration:none">[Supplementary]</a>
+<a href="../files/CGF_paper_supplement_2022.pdf">[Supplementary]</a>
 </med>
 </p>
 
@@ -103,9 +103,9 @@ a:active {
 <b>Real-time Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy</b><br>
 <med><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (GRAPP). 2023.</i><br>
-<a href="https://avirupmandal.github.io/sculpt-arxiv/" style="text-decoration:none">[Project Page]</a>
+<a href="https://avirupmandal.github.io/sculpt-arxiv/">[Project Page]</a>
 &nbsp;
-<a href="../files/GRAPP2023_deformation.pdf" style="text-decoration:none">[Paper]</a>
+<a href="../files/GRAPP2023_deformation.pdf">[Paper]</a>
 </med>
 </p>
 
@@ -113,11 +113,11 @@ a:active {
 <b>Simulating Fracture in Anisotropic Materials Containing Impurities</b><br>
 <med><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG). 2022.</i><br>
-<a href="https://avirupmandal.github.io/randomgraph-mig22/" style="text-decoration:none">[Project Page]</a>
+<a href="https://avirupmandal.github.io/randomgraph-mig22/">[Project Page]</a>
 &nbsp;
-<a href="../files/MIG2022_Random_Graph_Author_Copy.pdf" style="text-decoration:none">[Paper]</a>
+<a href="../files/MIG2022_Random_Graph_Author_Copy.pdf">[Paper]</a>
 &nbsp;
-<a href="../files/MIG2022_Random_Graph_Author_Copy_supplementary.pdf" style="text-decoration:none">[Supplementary]</a>
+<a href="../files/MIG2022_Random_Graph_Author_Copy_supplementary.pdf">[Supplementary]</a>
 </med>
 </p>
 
@@ -126,37 +126,37 @@ a:active {
 <med><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D). 2022.</i><br>
 <i>Journal version appeared in Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACMCGIT).</i><br>
-<a href="https://avirupmandal.github.io/sculpt-i3d/" style="text-decoration:none">[Project Page]</a>
+<a href="https://avirupmandal.github.io/sculpt-i3d/">[Project Page]</a>
 &nbsp;
-<a href="../files/I3D2022_Virtual_sculpting_PACM_Author.pdf" style="text-decoration:none">[Paper]</a>
+<a href="../files/I3D2022_Virtual_sculpting_PACM_Author.pdf">[Paper]</a>
 </med>
 </p>
 
 <p>
 <b>Artist Controlled Fracture Design Using Impurity Maps</b>
-<a href="../files/SIGGRAPH2022_SRC_Avirup%20Mandal.pdf" title="SRC Semi-Finalist" style="text-decoration:none">&#11088;</a><br>
+<a href="../files/SIGGRAPH2022_SRC_Avirup%20Mandal.pdf" title="SRC Semi-Finalist">&#11088;</a><br>
 <med><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>SIGGRAPH Posters. 2022.</i>
 <span style="color:darkgreen;">
 <i>(Specially selected for Technical Paper Oral Session presentation)</i>
 </span><br>
-<a href="https://doi.org/10.1145/3532719.3543202" style="text-decoration:none">[Abstract]</a>
+<a href="https://doi.org/10.1145/3532719.3543202">[Abstract]</a>
 &nbsp;
-<a href="../files/SIGGRAPH2022_Poster.pdf" style="text-decoration:none">[Poster]</a>
+<a href="../files/SIGGRAPH2022_Poster.pdf">[Poster]</a>
 &nbsp;
-<a href="../videos/poster_sig_22.mp4" style="text-decoration:none">[Video]</a>
+<a href="../videos/poster_sig_22.mp4">[Video]</a>
 </med>
 </p>
 
 <p>
 <b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>
-&nbsp;<a href="../files/IVAPP_2021_Best_Paper_Award.pdf" title="Best Paper Finalist" style="text-decoration:none">&#11088;</a><br>
+&nbsp;<a href="../files/IVAPP_2021_Best_Paper_Award.pdf" title="Best Paper Finalist">&#11088;</a><br>
 <med><b>Avirup Mandal</b>*, Kumar Ayush*, and Parag Chaudhuri.
 <i>(*Joint first authors)</i><br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP). 2021.</i><br>
-<a href="https://avirupmandal.github.io/blackhole-ivapp/" style="text-decoration:none">[Project Page]</a>
+<a href="https://avirupmandal.github.io/blackhole-ivapp/">[Project Page]</a>
 &nbsp;
-<a href="../files/IVAPP2021_Black_Hole.pdf" style="text-decoration:none">[Paper]</a>
+<a href="../files/IVAPP2021_Black_Hole.pdf">[Paper]</a>
 </med>
 </p>
 
@@ -167,11 +167,11 @@ a:active {
 <span style="color:darkgreen;">
 <i>(Specially selected for Technical Paper Oral Session presentation)</i>
 </span><br>
-<a href="https://doi.org/10.1145/3450618.3469152" style="text-decoration:none">[Abstract]</a>
+<a href="https://doi.org/10.1145/3450618.3469152">[Abstract]</a>
 &nbsp;
-<a href="../files/SIGGRAPH2021_Poster.pdf" style="text-decoration:none">[Poster]</a>
+<a href="../files/SIGGRAPH2021_Poster.pdf">[Poster]</a>
 &nbsp;
-<a href="../videos/poster_sig_21.mp4" style="text-decoration:none">[Video]</a>
+<a href="../videos/poster_sig_21.mp4">[Video]</a>
 </med>
 </p>
 
@@ -179,7 +179,7 @@ a:active {
 <b>Haptic Rendering of Solid Object Submerged in Flowing Fluid with Environment Dependent Texture</b><br>
 <med><b>Avirup Mandal</b>, Dwaipayan Sardar, and Subhasis Chaudhuri.<br>
 <i>EuroHaptics. 2018.</i><br>
-<a href="https://doi.org/10.1007/978-3-319-93399-3_34" style="text-decoration:none">[Paper]</a>
+<a href="https://doi.org/10.1007/978-3-319-93399-3_34">[Paper]</a>
 </med>
 </p>
 
@@ -187,7 +187,7 @@ a:active {
 <b>Generic Data Compression for Heart Diagnosis</b><br>
 <med>Tanmoy Kundu, Kaushik Lahiri, <b>Avirup Mandal</b>, Amitava Mukherjee, Mrinal K. Naskar, and Sandipan Sinha.<br>
 <i>U.S. Patent 9477701 B1. 2016.</i><br>
-<a href="https://patentimages.storage.googleapis.com/68/7f/98/07e942c9ae44ee/US9477701.pdf" style="text-decoration:none">[Patent]</a>
+<a href="https://patentimages.storage.googleapis.com/68/7f/98/07e942c9ae44ee/US9477701.pdf">[Patent]</a>
 </med>
 </p>
 
