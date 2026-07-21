@@ -58,14 +58,14 @@ a:active {
 <p>
 <b>Geometric Shape Optimization for Limbless Locomotion</b><br>
 <med>Utpal Khanal and <b>Avirup Mandal</b>.<br>
-<a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none">[Preprint]</a>
+<a href="https://doi.org/10.48550/arXiv.2607.00524">[Preprint]</a>
 </med>
 </p>
 
 <p>
 <b>High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images</b><br>
 <med>Nandhana Sunil*, Abhirami R. Iyer* and <b>Avirup Mandal</b>. <i>(*Joint first authors)</i><br>
-<a href="https://doi.org/10.48550/arXiv.2605.07254" style="text-decoration:none">[Preprint]</a>
+<a href="https://doi.org/10.48550/arXiv.2605.07254">[Preprint]</a>
 </med>
 </p>
 
