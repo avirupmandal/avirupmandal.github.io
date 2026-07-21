@@ -61,51 +61,51 @@ a:active {
 
 <p>
 <b>Galerkin Enhanced Graph-based FEM for Interactive Fracture and Sculpting Applications</b>, 2025, GRAPP, Porto, Portugal<br>
-<i>Best Paper Award Finalist</i>
+<med><i>Best Paper Award Finalist</i></med>
 </p>
 
 <p>
 <b>Thesis Presentation at SIGGRAPH Asia Doctoral Consortium</b>, 2023, SIGGRAPH Asia, Sydney, Australia, Doctoral Consortium<br>
-<i>Ten graduate students worldwide were selected to present their doctoral research.</i>
+<med><i>Ten graduate students worldwide were selected to present their doctoral research.</i></med>
 </p>
 
 <p>
 <b>Qualcomm Innovation Fellowship</b>, 2022, Qualcomm Research, Super Winner<br>
-<i>Five graduate students across India individually awarded a prize of one million INR.</i>
+<med><i>Five graduate students across India individually awarded a prize of one million INR.</i></med>
 </p>
 
 <p>
 <b>Artist Controlled Fracture Design Using Impurity Maps</b>, 2022, SIGGRAPH, Vancouver, Canada<br>
-<i>ACM Student Research Competition Semi-Finalist</i>
+<med><i>ACM Student Research Competition Semi-Finalist</i></med>
 </p>
 
 <p>
 <b>Qualcomm Innovation Fellowship</b>, 2021, Qualcomm Research, Winner<br>
-<i>Thirteen graduate students across India individually awarded a prize of one million INR.</i>
+<med><i>Thirteen graduate students across India individually awarded a prize of one million INR.</i></med>
 </p>
 
 <p>
 <b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>, 2021, IVAPP, Virtual<br>
-<i>Best Paper Award Finalist</i>
+<med><i>Best Paper Award Finalist</i></med>
 </p>
 
 <p>
 <b>Best Teaching Assistant Award</b>, 2020 &amp; 2021, IIT Bombay<br>
-<i>Awarded Twice</i>
+<med><i>Awarded Twice</i></med>
 </p>
 
 <h2>Achievements</h2>
 
 <p>
 <b>All India Rank 113</b><br>
-GATE (Electronics and Communication Engineering), 2016<br>
-<i>A total of approximately 152,000 candidates appeared for the examination.</i>
+<med>GATE (Electronics and Communication Engineering), 2016<br>
+<i>A total of approximately 152,000 candidates appeared for the examination.</i><med>
 </p>
 
 <p>
 <b>State Rank 94</b><br>
-West Bengal Joint Entrance Examination, 2011<br>
-<i>A total of approximately 125,000 candidates appeared for the examination.</i>
+<med>West Bengal Joint Entrance Examination, 2011<br>
+<i>A total of approximately 125,000 candidates appeared for the examination.</i></med>
 </p>
 
 <!---
