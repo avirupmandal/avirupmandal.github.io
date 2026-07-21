@@ -21,6 +21,9 @@ redirect_from:
     margin-bottom: 0.25em;
 }
 
+.page__content med {
+    font-size: 0.8rem;
+}
 
 .page__content li {
     font-size: 0.9rem;
@@ -53,7 +56,7 @@ a:active {
 
 <p>
 <b>Naik and Rastogi Award for Excellence in Ph.D. Research</b>, 2025, IIT Bombay, Winner<br>
-<i>Four graduate students from the Department of Electrical Engineering, IIT Bombay, were selected for the award in 2025.</i>
+<med><i>Four graduate students from the Department of Electrical Engineering, IIT Bombay, were selected for the award in 2025.</i></med>
 </p>
 
 <p>

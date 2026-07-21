@@ -26,7 +26,6 @@ redirect_from:
     font-size: 0.8rem;
 }
 
-
 .page__content li {
     font-size: 0.9rem;
 } 
@@ -39,7 +38,7 @@ a {
 
 /* Keep visited links the same color */
 a:visited {
-    color: inherit;
+    color: RoyalBlue;
 }
 
 /* Change color only on hover */
