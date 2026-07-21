@@ -54,7 +54,7 @@ a:active {
 
 <p>
 <b>Geometric Shape Optimization for Limbless Locomotion</b><br>
-Utpal Khanal and <b>Avirup Mandal</b>.<br>
+<small>Utpal Khanal and <b>Avirup Mandal</b></small>.<br>
 <a href="https://doi.org/10.48550/arXiv.2607.00524" style="text-decoration:none">[Preprint]</a>
 </p>
 
