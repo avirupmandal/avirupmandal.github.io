@@ -134,7 +134,7 @@ a:active {
 
 <p>
 <b>Artist Controlled Fracture Design Using Impurity Maps</b>
-<a href="../files/SIGGRAPH2022_SRC_Avirup%20Mandal.pdf" title="SRC Semi-Finalist">&#11088;</a><br>
+<a href="../files/SIGGRAPH2022_SRC_Avirup%20Mandal.pdf" title="SRC Semi-Finalist" style="text-decoration:none">&#11088;</a><br>
 <med><b>Avirup Mandal</b>, Parag Chaudhuri, and Subhasis Chaudhuri.<br>
 <i>SIGGRAPH Posters. 2022.</i>
 <span style="color:darkgreen;">
@@ -150,7 +150,7 @@ a:active {
 
 <p>
 <b>Non-linear Monte Carlo Ray Tracing for Visualizing Warped Spacetime</b>
-&nbsp;<a href="../files/IVAPP_2021_Best_Paper_Award.pdf" title="Best Paper Finalist">&#11088;</a><br>
+&nbsp;<a href="../files/IVAPP_2021_Best_Paper_Award.pdf" title="Best Paper Finalist" style="text-decoration:none">&#11088;</a><br>
 <med><b>Avirup Mandal</b>*, Kumar Ayush*, and Parag Chaudhuri.
 <i>(*Joint first authors)</i><br>
 <i>International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP). 2021.</i><br>
