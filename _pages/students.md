@@ -59,7 +59,7 @@ a:active {
 
 <h2>B.Tech Students</h2>
 
-<p><b>Sathish K</b> (2026–Present)</p>
+<p><b>Sathish K</b> (Jan-May 2026)</p>
 
 <p><b>Nandhana Sunil</b> (2025–2026)</p>
 
