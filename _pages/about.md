@@ -69,7 +69,7 @@ from
 
 <p>
 My research interests span
-<em><b>Computer Graphics, Geometry Processing, View Synthesis, Neural Physics,</b></em>
+<em><b>Computer Graphics, Geometry Processing, Computer Vision,</b></em>
 and
 <em><b>Haptics</b></em>.
 I received the
