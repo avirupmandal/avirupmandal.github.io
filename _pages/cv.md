@@ -122,7 +122,8 @@ HTML, CSS
 <!---
 Position of Responsibility
 ======
-- Best Teacher Award Committee, 2025
+- Member of Reception Committee for IIT Palakkad Convocation, 2026
+- Member of Best Teacher Award Committee, 2025
 - Chairperson of Department Purchase Committee, 2025
 - Member of Department Purchase Committee, 2024
 - IAC 7.0 Department Coordinator from CSE, 2024
