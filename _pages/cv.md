@@ -124,6 +124,7 @@ Position of Responsibility
 ======
 - Member of Reception Committee for IIT Palakkad Convocation, 2026
 - Member of Best Teacher Award Committee, 2025
+- HSSTTP 2025 Faculty Coordinator from IIT Palakkad 
 - Chairperson of Department Purchase Committee, 2025
 - Member of Department Purchase Committee, 2024
 - IAC 7.0 Department Coordinator from CSE, 2024
