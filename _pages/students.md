@@ -71,13 +71,13 @@ a:active {
 
 <h2>OELP Students</h2>
 
-<p><b>Vishesh Srivastava</b> (Aug–Dec 2025)</p>
+<p><b>Vishesh Srivastava</b> (Jul–Dec 2025)</p>
 
-<p><b>Zeeshan Mohammed Rangrej</b> (Aug–Dec 2025)</p>
+<p><b>Zeeshan Mohammed Rangrej</b> (Jul–Dec 2025)</p>
 
 <p><b>Aryan</b> (Aug–Dec 2025)</p>
 
-<p><b>Sumit Dnyaneshwar Garad</b> (Aug–Dec 2025)</p>
+<p><b>Sumit Dnyaneshwar Garad</b> (Jul–Dec 2025)</p>
 
 <p><b>Anup Kumar</b> (Jan–May 2025)</p>
 
