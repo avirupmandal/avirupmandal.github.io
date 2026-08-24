@@ -75,7 +75,7 @@ a:active {
 
 <p><b>Zeeshan Mohammed Rangrej</b> (Jul–Dec 2025)</p>
 
-<p><b>Aryan</b> (Aug–Dec 2025)</p>
+<p><b>Aryan</b> (Jul–Dec 2025)</p>
 
 <p><b>Sumit Dnyaneshwar Garad</b> (Jul–Dec 2025)</p>
 
