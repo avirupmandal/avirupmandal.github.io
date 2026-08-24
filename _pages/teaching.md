@@ -53,19 +53,19 @@ a:active {
 <h2>Teaching</h2>
 
 <p>
-<b>CS5024: Fundamentals of Computer Graphics</b> (2026 Jul–Dec, 2025 Jan–May)
+<b>CS5024: Fundamentals of Computer Graphics</b> (Jul–Dec 2026, Jan–May 2025)
 </p>
 
 <p>
-<b>CS5016: Computational Methods and Applications</b> (2026 Jan–May, 2025 Jan–May)
+<b>CS5016: Computational Methods and Applications</b> (Jan–May 2026, Jan–May 2025)
 </p>
 
 <p>
-<b>CS5657: Geometric Computer Vision</b> (2025 Jul–Dec)
+<b>CS5657: Geometric Computer Vision</b> (Jul–Dec 2025)
 </p>
 
 <p>
-<b>CS2111: Foundations of Computing Systems Lab</b> (2024 Jul–Dec)
+<b>CS2111: Foundations of Computing Systems Lab</b> (Jul–Dec 2024)
 </p>
 
 <!-- 
