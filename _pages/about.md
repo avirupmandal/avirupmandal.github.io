@@ -69,9 +69,9 @@ from
 
 <p>
 My research interests span
-<em><b>Computer Graphics, Geometry Processing, Computer Vision,</b></em>
+<em>Computer Graphics, Geometry Processing, Computer Vision,</em>
 and
-<em><b>Haptics</b></em>.
+<em>Haptics</em>.
 I received the
 <a href="https://acad.iitb.ac.in/thesis-awards-2025" style="text-decoration:none">
 Naik and Rastogi Award for Excellence in Ph.D. Research</a>
