@@ -56,6 +56,18 @@ a:active {
 <h2>Selected Publications and Patents</h2>
 
 <p>
+<b>Second-Order ADMM with Augmented Newton Steps</b><br>
+<med><b>Avirup Mandal</b>.<br>
+<i>Indian Conference on Computer Vision, Graphics and Image Processing. 2026.</i><br>
+<a href="https://avirupmandal.github.io/newton-admm-icvgip-2026/">[Project Page]</a>
+&nbsp;
+<a href="../files/ICVGIP_ADMM_2026.pdf">[Paper]</a>
+&nbsp;
+<a href="../files/ICVGIP_ADMM_2026_supp.pdf">[Supplementary]</a>
+</med>
+</p>
+
+<p>
 <b>Geometric Shape Optimization for Limbless Locomotion</b><br>
 <med>Utpal Khanal and <b>Avirup Mandal</b>.<br>
 <a href="https://doi.org/10.48550/arXiv.2607.00524">[Preprint]</a>
